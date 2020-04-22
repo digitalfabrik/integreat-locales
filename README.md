@@ -39,6 +39,8 @@ Note that we are using the `--squash` command which will create a merge commit:
 
 When pushing changes you are required to do the changes directly in the `integreat-locales` repository. After that you can pull the changes.
 
+You should create a separate branch in `integreat-locales` for your locale changes.
+
 ## Origin
 
 This repository is the result of a merge of the locales between the webapp project and the react-native project. The base for the locales is the file `src/locales` from the integreat-react-native project. It was copied on on 04-09-2018 the from the integreat-webapp project.
