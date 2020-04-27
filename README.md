@@ -8,8 +8,10 @@ This repository should be included as a [git subtree](https://raw.githubusercont
 
 ### Setup
 
+If switching from `git submodules`, the submodule directory `locales` has to be deleted before checkout.
+
 For easier management of the subtrees, you should add the `integreat-locales` repository as a remote
- (otherwise the whole repo url has to be used for each command):
+(otherwise the whole repo url has to be used for each command):
 
 ```bash
 git remote add locales git@github.com:Integreat/integreat-locales.git
