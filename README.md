@@ -64,7 +64,7 @@ After merging `NATIVE-X` into `master` it is possible for anyone to pull again f
 
 As the pull command is quite long you can define an alias:
 ```bash
-git config alias.pull-locales "\!f() { git subtree pull --prefix locales locales \$1 --squash -m 'Merging squashed locales for branch \$(git rev-parse --abbrev-ref HEAD)'; }; f"
+git config alias.pull-locales '!f() { git subtree pull --prefix locales locales $1 --squash -m "Merging squashed locales for branch $(git rev-parse --abbrev-ref HEAD)"; }; f'
 ```
 
 Then you can pull using:
