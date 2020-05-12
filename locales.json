@@ -855,7 +855,7 @@
     "de": {
       "local": "LOKALE NEWS",
       "readMore": "Weiterlesen",
-      "currentlyNoNews": "Es gibt aktuell keine Veranstaltungen.",
+      "currentlyNoNews": "Es gibt aktuell keine Nachrichten.",
       "eNewsNo": "E-news No"
     },
     "ar": {
@@ -867,7 +867,7 @@
     "en": {
       "local": "LOCAL NEWS",
       "readMore": "Read more",
-      "currentlyNoNews": "No news is currently available.",
+      "currentlyNoNews": "No news are currently available.",
       "eNewsNo": "E-news No"
     }
   },
