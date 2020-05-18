@@ -853,22 +853,18 @@
   },
   "news": {
     "de": {
-      "local": "LOKALE NEWS",
+      "news": "Nachrichten",
+      "newsAlternative": "Neuigkeiten",
+      "localNews": "Lokale Nachrichten",
+      "localNewsAlternative": "Lokale Neuigkeiten",
       "readMore": "Weiterlesen",
-      "currentlyNoNews": "Es gibt aktuell keine Nachrichten.",
-      "eNewsNo": "E-news No"
+      "currentlyNoNews": "Aktuell gibt es keine Nachrichten.",
+      "currentlyNoNewsAlternative": "Aktuell gibt es keine Neuigkeiten."
     },
     "ar": {
       "local": "الأخبار المحلية",
       "currentlyNoNews": "ليست هناك أخبار متوفرة حاليا",
-      "readMore": "المزيد",
-      "eNewsNo": "E-news No"
-    },
-    "en": {
-      "local": "LOCAL NEWS",
-      "readMore": "Read more",
-      "currentlyNoNews": "No news are currently available.",
-      "eNewsNo": "E-news No"
+      "readMore": "المزيد"
     }
   },
   "extras": {
