@@ -860,11 +860,6 @@
       "readMore": "Weiterlesen",
       "currentlyNoNews": "Aktuell gibt es keine Nachrichten.",
       "currentlyNoNewsAlternative": "Aktuell gibt es keine Neuigkeiten."
-    },
-    "ar": {
-      "local": "الأخبار المحلية",
-      "currentlyNoNews": "ليست هناك أخبار متوفرة حاليا",
-      "readMore": "المزيد"
     }
   },
   "extras": {
@@ -1816,7 +1811,6 @@
       "offers": "العروض",
       "categories": "الفئات",
       "events": "الفعاليات",
-      "news": "الأخبار",
       "noEvents": "لا توجد فعاليات",
       "noLanguages": "غير متوفر بلغات أخرى",
       "noTranslation": "لا توجد ترجمة متاحة",
@@ -1836,7 +1830,6 @@
       "offers": "Offers",
       "categories": "Categories",
       "events": "Events",
-      "news": "News",
       "noEvents": "No events",
       "noLanguages": "Not available in other languages",
       "noTranslation": "No translation available",
