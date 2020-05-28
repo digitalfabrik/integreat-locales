@@ -2057,46 +2057,7 @@
   },
   "search": {
     "de": {
-      "searchCategory": "Suche nach einer Kategorie"
-    },
-    "ar": {
-      "searchCategory": "البحث عن فئة"
-    },
-    "en": {
-      "searchCategory": "Search for a category"
-    },
-    "es": {
-      "searchCategory": "Buscar por categoría"
-    },
-    "fa": {
-      "searchCategory": "جستجو بر اساس دسته"
-    },
-    "fr": {
-      "searchCategory": "Chercher une catégorie"
-    },
-    "hr": {
-      "searchCategory": "Pretraga po kategoriji"
-    },
-    "ku": {
-      "searchCategory": "Lêgerîn li gorî Desteyê"
-    },
-    "pl": {
-      "searchCategory": "Szukaj według kategorii"
-    },
-    "ro": {
-      "searchCategory": "Căutați după o categorie"
-    },
-    "ru": {
-      "searchCategory": "Поиск по категории"
-    },
-    "so": {
-      "searchCategory": "Ka raadi qeybta"
-    },
-    "ti": {
-      "searchCategory": "ምድብ ፈትሽ"
-    },
-    "tr": {
-      "searchCategory": "Bir kategori ara"
+      "searchPlaceholder": "Suche"
     }
   },
   "settings": {
