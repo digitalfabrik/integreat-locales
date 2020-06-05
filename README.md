@@ -76,7 +76,7 @@ git pull-locales <branch>
 ## Submitting a translation job
 
 Once in a while the texts in this repository get sent to professional translators.
-The general process is as follows:
+The general process for the [./locales.json](locales.json) is as follows:
 
 * Create an issue that a new translation job should be created
 * Create a branch for the issue
@@ -86,6 +86,8 @@ The general process is as follows:
 * Copy the received CSVs to `./external-jobs/<identifier>/received`
 * Run `./manage convert ./external-jobs/<identifier>/received ./locales.json json`
 * Open a PR with the changes. Except for proofreading jobs, only keys should be added.
+
+Similarly, the process has to be repeated for [./native-locales/locales.json](native-locales/locales.json).
 
 ## How to convert between JSON and CSVs
 
