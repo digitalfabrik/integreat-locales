@@ -106,6 +106,24 @@ Notes:
 * The module and language keys in the JSON are sorted
 * The source language is always the first language
 
+# File formats
+
+## JSON
+
+* JSONs are encoded in UTF-8 S
+* Structured via objects: `module name` > `langauge` > `nested keys` > `translations`
+
+## CSV
+
+* CSVs are separated by a ',' and are encoded in UTF-8
+* Each CSV contains exactly one language
+* Structured via dot-delimited keys. Keys for translations are created using module names and nested keys. 
+
+## ODS
+
+* Used for distribution of CSVs are the CSV format does not define the exact format.
+* For an example see `./external-jobs/2020-06-malteser`
+
 ## Origin of the locales
 
 This repository is the result of a merge of the locales between the webapp project and the react-native project. The base for the locales is the file `src/locales` from the integreat-react-native project. It was copied on on 04-09-2018 the from the integreat-webapp project.
