@@ -73,18 +73,34 @@ Then you can pull using:
 git pull-locales <branch>
 ```
 
-## manage
+## Submitting a translation job
+
+Once in a while the texts in this repository get sent to professional translators.
+The general process is as follows:
+
+* Create an issue that a new translation job should be created
+* Create a branch for the issue
+* Create the directory `./external-jobs/<identifier>/sent`, where `<identifier>` is `year>-<month>-<optional_key>`
+* Run `./manage convert ./locales.json ./external-jobs/<identifier>/sent`
+* Send the `sent` folder to the external translation service
+* Copy the received CSVs to `./external-jobs/<identifier>/received`
+* Run `./manage convert ./external-jobs/<identifier>/received ./locales.json json`
+* Open a PR with the changes. Except for proofreading jobs, only keys should be added.
+
+## How to convert between JSON and CSVs
+
+The `manage` script can be used to prepare locales for external translation
 
 ### Converting to CSV
 
-Example: `./manage convert locales.json csv csv`
+Example: `./manage convert ./locales.json ./csv-job csv`
 
 Notes:
 * The module keys in the CSVs are sorted
 
 ### Converting to JSON
 
-Example: `./manage convert csv locales.json json`
+Example: `./manage convert ./csv-job ./locales.json json`
  
 Notes:
 * The module and language keys in the JSON are sorted
