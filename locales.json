@@ -853,61 +853,6 @@
       "currentlyNoEvents": "Güncel bir etkinlik yok."
     }
   },
-  "news": {
-    "de": {
-      "news": "Nachrichten",
-      "newsAlternative": "Neuigkeiten",
-      "localNews": "Lokale Nachrichten",
-      "localNewsAlternative": "Lokale Neuigkeiten",
-      "readMore": "Weiterlesen",
-      "currentlyNoNews": "Aktuell gibt es keine Nachrichten.",
-      "currentlyNoNewsAlternative": "Aktuell gibt es keine Neuigkeiten."
-    }
-  },
-  "offers": {
-    "de": {
-      "offers": "Angebote"
-    },
-    "ar": {
-      "offers": "العروض"
-    },
-    "en": {
-      "offers": "Offers"
-    },
-    "es": {
-      "offers": "Ofertas"
-    },
-    "fa": {
-      "offers": "خدمات"
-    },
-    "fr": {
-      "offers": "Offres"
-    },
-    "hr": {
-      "offers": "Ponude"
-    },
-    "ku": {
-      "offers": "Xizmet"
-    },
-    "pl": {
-      "offers": "Oferty"
-    },
-    "ro": {
-      "offers": "Oferte"
-    },
-    "ru": {
-      "offers": "Предложения"
-    },
-    "so": {
-      "offers": "Heshiisyo"
-    },
-    "ti": {
-      "offers": "ውዕላት"
-    },
-    "tr": {
-      "offers": "Teklifler"
-    }
-  },
   "feedback": {
     "de": {
       "technicalTopics": "Technische Funktionen",
@@ -1403,7 +1348,7 @@
     },
     "fa": {
       "integreat": "Integreat",
-      "integreatDescription": "Integreat\u200F راهنمای دیجیتالی شما در مورد آلمان است",
+      "integreatDescription": "Integreat‏ راهنمای دیجیتالی شما در مورد آلمان است",
       "search": "جستجو",
       "searchDescription": "با استفاده از کلمات کلیدی، اطلاعات صحیح را به سرعت پیدا کنید",
       "languageChange": "تغییر زبان",
@@ -2055,6 +2000,61 @@
       "shareMessage": "Şimdi bulundu: {{message}}",
       "shareFailDefaultMessage": "İçeriğin paylaşılması maalesef başarısız.",
       "disclaimer": "Künye"
+    }
+  },
+  "news": {
+    "de": {
+      "news": "Nachrichten",
+      "newsAlternative": "Neuigkeiten",
+      "localNews": "Lokale Nachrichten",
+      "localNewsAlternative": "Lokale Neuigkeiten",
+      "readMore": "Weiterlesen",
+      "currentlyNoNews": "Aktuell gibt es keine Nachrichten.",
+      "currentlyNoNewsAlternative": "Aktuell gibt es keine Neuigkeiten."
+    }
+  },
+  "offers": {
+    "de": {
+      "offers": "Angebote"
+    },
+    "ar": {
+      "offers": "العروض"
+    },
+    "en": {
+      "offers": "Offers"
+    },
+    "es": {
+      "offers": "Ofertas"
+    },
+    "fa": {
+      "offers": "خدمات"
+    },
+    "fr": {
+      "offers": "Offres"
+    },
+    "hr": {
+      "offers": "Ponude"
+    },
+    "ku": {
+      "offers": "Xizmet"
+    },
+    "pl": {
+      "offers": "Oferty"
+    },
+    "ro": {
+      "offers": "Oferte"
+    },
+    "ru": {
+      "offers": "Предложения"
+    },
+    "so": {
+      "offers": "Heshiisyo"
+    },
+    "ti": {
+      "offers": "ውዕላት"
+    },
+    "tr": {
+      "offers": "Teklifler"
     }
   },
   "search": {
