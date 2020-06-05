@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 
-# Interprets the CSVs as UTF-8 and converts to ods
+function to_csv {
+  libreoffice --headless --infilter=CSV:44,34,76,1  --convert-to csv --outdir $1 $1/*.ods
+  rm $1/*.ods
+}
 
-libreoffice --headless --infilter=CSV:44,34,76,1  --convert-to csv --outdir ./external-jobs/2020-06-malteser/received ./external-jobs/2020-06-malteser/received/*.ods
-rm ./external-jobs/2020-06-malteser/received/*.ods
+to_csv ./external-jobs/2020-06-malteser/received/native-locales
+to_csv ./external-jobs/2020-06-malteser/received
