@@ -126,7 +126,7 @@ const loadModules = (csvFile, csvColumn) => {
     skip_empty_lines: true
   })
 
-  const flattened = fromPairs(records.map(record => [record['key'], record[csvColumn]]))
+  const flattened = fromPairs(records.map(record => [record['key'], record[csvColumn]]).filter(([key, translation]) => !!translation))
 
   return unflatten(flattened)
 }
