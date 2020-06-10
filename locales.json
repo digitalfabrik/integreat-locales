@@ -23,7 +23,8 @@
         "landing": "اختيار المكان",
         "disclaimer": "هيئة التحرير وجهة الاتصال",
         "pois": "النقاط المثيرة للاهتمام",
-        "notFound": "تعذر العثور على الصفحة"
+        "notFound": "تعذر العثور على الصفحة",
+        "tunews": "tünews"
       }
     },
     "en": {
@@ -35,7 +36,8 @@
         "disclaimer": "Imprint and contacts",
         "mainDisclaimer": "Imprint and contacts - {{appName}}",
         "pois": "Points of interest",
-        "notFound": "Page not located"
+        "notFound": "Page not located",
+        "tunews": "tünews"
       },
       "metaDescription": "{{appName}} is your digital guide to life in Germany. Discover local information, events and advice. Always up to date and available in your own language."
     },
@@ -48,7 +50,8 @@
         "disclaimer": "Aviso legal y contacto",
         "mainDisclaimer": "Aviso legal y contacto - {{appName}}",
         "pois": "Puntos de interés",
-        "notFound": "No se ha encontrado la página"
+        "notFound": "No se ha encontrado la página",
+        "tunews": "tünews"
       },
       "metaDescription": "{{appName}} es su guía digital para Alemania. Encuentre información local, eventos y consejos. Siempre actualizados y en su idioma."
     },
@@ -61,7 +64,8 @@
         "disclaimer": "اطلاعات ناشر و تماس",
         "mainDisclaimer": "اطلاعات ناشر و تماس - {{appName}}",
         "pois": "موارد مورد علاقه",
-        "notFound": "صفحه پیدا نشد"
+        "notFound": "صفحه پیدا نشد",
+        "tunews": "tünews"
       },
       "metaDescription": "{{appName}} راهنمای دیجیتالی شما در مورد آلمان است. اطلاعات، رویدادها و مشاوره محلی را بیابید. همیشه به روز و به زبان شما."
     },
@@ -74,7 +78,8 @@
         "disclaimer": "Mentions légales et contact",
         "mainDisclaimer": "Mentions légales et contact - {{appName}}",
         "pois": "Points of Interest",
-        "notFound": "Page introuvable"
+        "notFound": "Page introuvable",
+        "tunews": "tünews"
       },
       "metaDescription": "{{appName}} est votre guide numérique pour l'Allemagne. Vous y trouverez des informations locales, des événements et des conseils, toujours à jour et dans votre langue."
     },
@@ -87,7 +92,8 @@
         "disclaimer": "Impresum i kontakt",
         "mainDisclaimer": "Impresum i kontakt - {{appName}}",
         "pois": "Zanimljive točke",
-        "notFound": "Stranica nije pronađena"
+        "notFound": "Stranica nije pronađena",
+        "tunews": "tünews"
       },
       "metaDescription": "{{appName}} je vaš digitalni vodič za Njemačku. Pronađite lokalne informacije, događanja i savjetovanje. Uvijek s najaktualnijim podatcima i na vašem jeziku."
     },
@@ -100,7 +106,8 @@
         "disclaimer": "Lêzanînên Weşîner û Têkillî",
         "mainDisclaimer": "Lêzanînên Weşanîner û Têkillî – '{{appName}}'",
         "pois": "Babetên balkêş",
-        "notFound": "Rûpel nehat dîtin"
+        "notFound": "Rûpel nehat dîtin",
+        "tunews": "tünews"
       },
       "metaDescription": "'{{appName}}' rêbera te ya dîcîtal li Almanyayê ye. Zzanyarî, rûdan û şêwirîna xwecihî peyde bike. Hertim birojkirî û bi zimanê te bixwe."
     },
@@ -113,7 +120,8 @@
         "disclaimer": "Nota prawna i kontakt",
         "mainDisclaimer": "Nota prawna i kontakt - {{appName}}",
         "pois": "Points of Interest",
-        "notFound": "Nie znaleziono strony"
+        "notFound": "Nie znaleziono strony",
+        "tunews": "tünews"
       },
       "metaDescription": "{{appName}} to e-przewodnik po Niemczech. Znajdziesz tu aktualne informacje, najnowsze wydarzenia i porady. Zawsze aktualne i w Twoim języku."
     },
@@ -126,7 +134,8 @@
         "disclaimer": "Caseta tehnică și contact",
         "mainDisclaimer": "Caseta tehnică și contact - {{appName}}",
         "pois": "Points of Interest",
-        "notFound": "Pagină nu a fost găsită"
+        "notFound": "Pagină nu a fost găsită",
+        "tunews": "tünews"
       },
       "metaDescription": "{{appName}} este ghidul dvs. digital pentru Germania. Găsiți informații locale, evenimente și consiliere. Acestea sunt întotdeauna la zi și în limba dvs."
     },
@@ -139,7 +148,8 @@
         "disclaimer": "Выходные данные и контактная информация",
         "mainDisclaimer": "Выходные данные и контактная информация — {{appName}}",
         "pois": "Достопримечательности",
-        "notFound": "Страница не найдена"
+        "notFound": "Страница не найдена",
+        "tunews": "tünews"
       },
       "metaDescription": "{{appName}} — это ваш виртуальный гид по Германии. Здесь вы узнаете информацию о жизни страны и о проводимых здесь мероприятиях, а также сможете получить консультации — всегда в актуальном виде и на вашем языке."
     },
@@ -152,7 +162,8 @@
         "disclaimer": "Faahfaahinta qoraaga iyo macaluumaadkiisa xiriirka",
         "mainDisclaimer": "Faahfaahinta qoraaga iyo macaluumaadkiisa xiriirka - integreat",
         "pois": "Qodobbada xiisaha leh",
-        "notFound": "Bogga lama helin"
+        "notFound": "Bogga lama helin",
+        "tunews": "tünews"
       },
       "metaDescription": "{{appName}} waa tusahaaga dijitaalka ah ee Jarmalka. Raadi macluumaadka deegaanka, dhacdooyin iyo talobixino. Had iyo jeer cusbooneysan/casriyeysan oo luuqadaada ah."
     },
@@ -165,7 +176,8 @@
         "disclaimer": "ናይ ደራሲ ዝርዝራት ሓበሬታን ናይ ርክብን",
         "mainDisclaimer": "ናይ ደራሲ ዝርዝራት ሓበሬታን ናይ ርክብን - integreat",
         "pois": "ዘገድሱ ነጥብታት",
-        "notFound": "ገጽ ኣይተረኽበን"
+        "notFound": "ገጽ ኣይተረኽበን",
+        "tunews": "tünews"
       },
       "metaDescription": "{{appName}} ናይ ጀርመን ዲጂታላዊ መምርሒኻ እዩ። ከባብያዊ ሓበሬታ፡ ኣጋጣሚታትን ምኽርን ርኸብ። ኩሉግዜ ዝተሓደሰን ብቋንቋኻን።"
     },
@@ -178,7 +190,8 @@
         "disclaimer": "Künye ve iletişim",
         "mainDisclaimer": "Künye ve iletişim - {{appName}}",
         "pois": "İlgi alanı",
-        "notFound": "Sayfa bulunamadı"
+        "notFound": "Sayfa bulunamadı",
+        "tunews": "tünews"
       },
       "metaDescription": "{{appName}}, Almanya'daki dijital rehberinizdir. Burada yerel bilgiler, etkinlikler ve öneriler bulabilirsiniz. Her zaman günceldir ve kendi dilinizdedir."
     }
