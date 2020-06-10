@@ -8,7 +8,7 @@ const {unflatten} = flat
 const stringify = require('csv-stringify')
 const parse = require('csv-parse/lib/sync')
 
-const {isEmpty, without, isString, merge, fromPairs, toPairs, zip, sortBy, mapValues} = require('lodash')
+const {isEmpty, without, isString, merge, fromPairs, toPairs, zip, sortBy, mapValues, isEqual} = require('lodash')
 
 program
   .version('0.1.0')
@@ -138,13 +138,18 @@ const writeJsonFromCsv = (locales, toPath, sourceLanguage) => {
     }
 
     const csvs = files.map(file => `${locales}/${file}`).filter(file => path.extname(file) === '.csv')
-    const byLanguageModules = fromPairs(csvs.map(csvFile => [path.basename(csvFile, '.csv'), loadModules(csvFile, 'target_language')]))
 
-    if (!csvs) {
+    if (isEmpty(csvs)) {
       throw  new Error('A minimum of one CSV is required in order to build a JSON!')
     }
 
+    const byLanguageModules = fromPairs(csvs.map(csvFile => [path.basename(csvFile, '.csv'), loadModules(csvFile, 'target_language')]))
+
     const sourceModules = loadModules(csvs[0], 'source_language')
+
+    if (!csvs.every(csv => isEqual(loadModules(csv, 'source_language'), sourceModules))) {
+      throw  new Error('The \'source_language\' column must be the same in every CSV!')
+    }
 
     const byLanguageModulesWithSourceLanguage = {...byLanguageModules, [sourceLanguage]: sourceModules}
 
