@@ -1,48 +1,47 @@
 {
   "native": {
     "de": {
-      "NSPhotoLibraryAddUsageDescription": "Um Bilder zu speichern, benötigt Integreat Zugriff auf die Galerie.",
-      "NSLocationWhenInUseUsageDescription": "Um nahegelegene Orte zu finden, benötigt Integreat Zugriff auf den Standort."
+      "NSPhotoLibraryAddUsageDescription": "Um Bilder zu speichern, benötigt {{appName}} Zugriff auf die Galerie.",
+      "NSLocationWhenInUseUsageDescription": "Um nahegelegene Orte zu finden, benötigt {{appName}} Zugriff auf den Standort."
     },
     "ar": {
-      "NSPhotoLibraryAddUsageDescription": "لحفظ الصور، يحتاج تطبيق إنتجريت الوصول إلى المعرض."
     },
     "en": {
-      "NSPhotoLibraryAddUsageDescription": "Integreat wants to save photos to your library.",
-      "NSLocationWhenInUseUsageDescription": "Integreat wants to use your location to find nearby cities."
+      "NSPhotoLibraryAddUsageDescription": "{{appName}} wants to save photos to your library.",
+      "NSLocationWhenInUseUsageDescription": "{{appName}} wants to use your location to find nearby cities."
     },
     "es": {
-      "NSPhotoLibraryAddUsageDescription": "Para guardar imágenes, Integreat necesita un acceso a la galería."
+      "NSPhotoLibraryAddUsageDescription": "Para guardar imágenes, {{appName}} necesita un acceso a la galería."
     },
     "fa": {
-      "NSPhotoLibraryAddUsageDescription": "برای ذخیره تصاویر، Integreat نیاز به دسترسی به گالری دارد."
+      "NSPhotoLibraryAddUsageDescription": "برای ذخیره تصاویر، {{appName}} نیاز به دسترسی به گالری دارد."
     },
     "fr": {
-      "NSPhotoLibraryAddUsageDescription": "Pour enregistrer des photos, Integreat doit accéder à votre galerie."
+      "NSPhotoLibraryAddUsageDescription": "Pour enregistrer des photos, {{appName}} doit accéder à votre galerie."
     },
     "hr": {
-      "NSPhotoLibraryAddUsageDescription": "Za pohranjivanje slika Integreat mora imati pristup galeriji."
+      "NSPhotoLibraryAddUsageDescription": "Za pohranjivanje slika {{appName}} mora imati pristup galeriji."
     },
     "ku": {
-      "NSPhotoLibraryAddUsageDescription": "Jibo zexîrekirin anku xwedankirina wêneyan, Integreat hewcetî bi têketina nav Galeriyê heye."
+      "NSPhotoLibraryAddUsageDescription": "Jibo zexîrekirin anku xwedankirina wêneyan, {{appName}} hewcetî bi têketina nav Galeriyê heye."
     },
     "pl": {
-      "NSPhotoLibraryAddUsageDescription": "Aby zapisać obrazy, Integreat potrzebuje dostępu do galerii."
+      "NSPhotoLibraryAddUsageDescription": "Aby zapisać obrazy, {{appName}} potrzebuje dostępu do galerii."
     },
     "ro": {
-      "NSPhotoLibraryAddUsageDescription": "Pentru a stoca imagini, Integreat are nevoie de acces la galerie."
+      "NSPhotoLibraryAddUsageDescription": "Pentru a stoca imagini, {{appName}} are nevoie de acces la galerie."
     },
     "ru": {
-      "NSPhotoLibraryAddUsageDescription": "Чтобы сохранить снимки, приложению Integreat требуется доступ к галерее изображений."
+      "NSPhotoLibraryAddUsageDescription": "Чтобы сохранить снимки, приложению {{appName}} требуется доступ к галерее изображений."
     },
     "so": {
-      "NSPhotoLibraryAddUsageDescription": "Si loo keydiyo sawirada, Integreat waxay u baahan tahay inay marin u hesho keydka sawirada."
+      "NSPhotoLibraryAddUsageDescription": "Si loo keydiyo sawirada, {{appName}} waxay u baahan tahay inay marin u hesho keydka sawirada."
     },
     "ti": {
-      "NSPhotoLibraryAddUsageDescription": "ስእልታት ንምዕቃብ፡ Integreat ናብቲ ጋለሪ/መኽዘን ስእሊ ናይ ምእታው ፍቓድ የድልዮ።"
+      "NSPhotoLibraryAddUsageDescription": "ስእልታት ንምዕቃብ፡ {{appName}} ናብቲ ጋለሪ/መኽዘን ስእሊ ናይ ምእታው ፍቓድ የድልዮ።"
     },
     "tr": {
-      "NSPhotoLibraryAddUsageDescription": "Resimleri kaydedebilmek için Integreat'in galeriye erişimi gerekmektedir."
+      "NSPhotoLibraryAddUsageDescription": "Resimleri kaydedebilmek için {{appName}}'in galeriye erişimi gerekmektedir."
     }
   }
 }
