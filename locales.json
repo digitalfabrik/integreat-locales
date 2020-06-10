@@ -160,7 +160,7 @@
         "offers": "Heshiisyo",
         "landing": "Doorashada goobta",
         "disclaimer": "Faahfaahinta qoraaga iyo macaluumaadkiisa xiriirka",
-        "mainDisclaimer": "Faahfaahinta qoraaga iyo macaluumaadkiisa xiriirka - integreat",
+        "mainDisclaimer": "Faahfaahinta qoraaga iyo macaluumaadkiisa xiriirka - {{appName}}",
         "pois": "Qodobbada xiisaha leh",
         "notFound": "Bogga lama helin",
         "tunews": "tünews"
@@ -174,7 +174,7 @@
         "offers": "ውዕላት",
         "landing": "ምምራጽ ቦታ",
         "disclaimer": "ናይ ደራሲ ዝርዝራት ሓበሬታን ናይ ርክብን",
-        "mainDisclaimer": "ናይ ደራሲ ዝርዝራት ሓበሬታን ናይ ርክብን - integreat",
+        "mainDisclaimer": "ናይ ደራሲ ዝርዝራት ሓበሬታን ናይ ርክብን - {{appName}}",
         "pois": "ዘገድሱ ነጥብታት",
         "notFound": "ገጽ ኣይተረኽበን",
         "tunews": "tünews"
@@ -2123,7 +2123,6 @@
       "pushNewsDescription": "دریافت پیام های فوری برای آخرین اخبار محلی جدید",
       "proposeCitiesTitle": "مکان های نزدیک",
       "proposeCitiesDescription": "با استفاده از موقعیت GPS، پیشنهادات برای مکان های نزدیک را دریافت کنید",
-      "about": "از طریق اینترنت",
       "privacyPolicy": "بیانیه حفاظت از داده ها",
       "version": "نسخه: {{version}}",
       "openSourceLicenses": "لیسانس منبع باز"
@@ -2159,7 +2158,7 @@
       "pushNewsDescription": "Wergirtina peyamên bilez sa dawîn nûçeyên xwecihî yên nû",
       "proposeCitiesTitle": "Cihên Nêzik",
       "proposeCitiesDescription": "Bi bikaranîna Mekanbîna 'GPS'ê, pêşniyaran jibo mekanên nêzik werbigire",
-      "about": "Bi rêya Înternetê",
+      "about": "Bi rêya {{appName}}",
       "privacyPolicy": "Daxuyaniya Parastina Daneyan",
       "version": "Versiyon: {{version}}",
       "openSourceLicenses": "Lîsansa Çavkanî-Vekirî"
