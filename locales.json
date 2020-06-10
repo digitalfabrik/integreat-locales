@@ -7,13 +7,13 @@
         "offers": "Angebote",
         "landing": "Ortsauswahl",
         "disclaimer": "Impressum und Kontakt",
-        "mainDisclaimer": "Impressum und Kontakt - Integreat",
+        "mainDisclaimer": "Impressum und Kontakt - {{appName}}",
         "pois": "Points of Interest",
         "notFound": "Seite nicht gefunden",
         "tunews": "tünews",
         "localNews": "Lokale Nachrichten"
       },
-      "metaDescription": "Integreat ist Ihr digitaler Guide für Deutschland. Finden Sie lokale Informationen, Veranstaltungen und Beratung. Immer aktuell und in Ihrer Sprache."
+      "metaDescription": "{{appName}} ist Ihr digitaler Guide für Deutschland. Finden Sie lokale Informationen, Veranstaltungen und Beratung. Immer aktuell und in Ihrer Sprache."
     },
     "ar": {
       "pageTitles": {
@@ -22,11 +22,9 @@
         "offers": "العروض",
         "landing": "اختيار المكان",
         "disclaimer": "هيئة التحرير وجهة الاتصال",
-        "mainDisclaimer": "هيئة التحرير وجهة الاتصال لتطبيق إنتجريت",
         "pois": "النقاط المثيرة للاهتمام",
         "notFound": "تعذر العثور على الصفحة"
-      },
-      "metaDescription": "تطبيق إنتجريت هو دليلك الرقمي لألمانيا. تجد فيه معلومات وفعاليات محلية ويقدم لك المشورة. دائمًا مُحدَّثة وبلغتك."
+      }
     },
     "en": {
       "pageTitles": {
@@ -35,11 +33,11 @@
         "offers": "Offers",
         "landing": "Location selection",
         "disclaimer": "Imprint and contacts",
-        "mainDisclaimer": "Imprint and contacts - Integreat",
+        "mainDisclaimer": "Imprint and contacts - {{appName}}",
         "pois": "Points of interest",
         "notFound": "Page not located"
       },
-      "metaDescription": "Integreat is your digital guide to life in Germany. Discover local information, events and advice. Always up to date and available in your own language."
+      "metaDescription": "{{appName}} is your digital guide to life in Germany. Discover local information, events and advice. Always up to date and available in your own language."
     },
     "es": {
       "pageTitles": {
@@ -48,11 +46,11 @@
         "offers": "Ofertas",
         "landing": "Elegir ubicación",
         "disclaimer": "Aviso legal y contacto",
-        "mainDisclaimer": "Aviso legal y contacto - Integreat",
+        "mainDisclaimer": "Aviso legal y contacto - {{appName}}",
         "pois": "Puntos de interés",
         "notFound": "No se ha encontrado la página"
       },
-      "metaDescription": "Integreat es su guía digital para Alemania. Encuentre información local, eventos y consejos. Siempre actualizados y en su idioma."
+      "metaDescription": "{{appName}} es su guía digital para Alemania. Encuentre información local, eventos y consejos. Siempre actualizados y en su idioma."
     },
     "fa": {
       "pageTitles": {
@@ -61,11 +59,11 @@
         "offers": "خدمات",
         "landing": "انتخاب محل",
         "disclaimer": "اطلاعات ناشر و تماس",
-        "mainDisclaimer": "اطلاعات ناشر و تماس - Integreat",
+        "mainDisclaimer": "اطلاعات ناشر و تماس - {{appName}}",
         "pois": "موارد مورد علاقه",
         "notFound": "صفحه پیدا نشد"
       },
-      "metaDescription": "Integreat راهنمای دیجیتالی شما در مورد آلمان است. اطلاعات، رویدادها و مشاوره محلی را بیابید. همیشه به روز و به زبان شما."
+      "metaDescription": "{{appName}} راهنمای دیجیتالی شما در مورد آلمان است. اطلاعات، رویدادها و مشاوره محلی را بیابید. همیشه به روز و به زبان شما."
     },
     "fr": {
       "pageTitles": {
@@ -74,11 +72,11 @@
         "offers": "Offres",
         "landing": "Sélection du lieu",
         "disclaimer": "Mentions légales et contact",
-        "mainDisclaimer": "Mentions légales et contact - Integreat",
+        "mainDisclaimer": "Mentions légales et contact - {{appName}}",
         "pois": "Points of Interest",
         "notFound": "Page introuvable"
       },
-      "metaDescription": "Integreat est votre guide numérique pour l'Allemagne. Vous y trouverez des informations locales, des événements et des conseils, toujours à jour et dans votre langue."
+      "metaDescription": "{{appName}} est votre guide numérique pour l'Allemagne. Vous y trouverez des informations locales, des événements et des conseils, toujours à jour et dans votre langue."
     },
     "hr": {
       "pageTitles": {
@@ -87,11 +85,11 @@
         "offers": "Ponude",
         "landing": "Odabir mjesta",
         "disclaimer": "Impresum i kontakt",
-        "mainDisclaimer": "Impresum i kontakt - Integreat",
+        "mainDisclaimer": "Impresum i kontakt - {{appName}}",
         "pois": "Zanimljive točke",
         "notFound": "Stranica nije pronađena"
       },
-      "metaDescription": "Integreat je vaš digitalni vodič za Njemačku. Pronađite lokalne informacije, događanja i savjetovanje. Uvijek s najaktualnijim podatcima i na vašem jeziku."
+      "metaDescription": "{{appName}} je vaš digitalni vodič za Njemačku. Pronađite lokalne informacije, događanja i savjetovanje. Uvijek s najaktualnijim podatcima i na vašem jeziku."
     },
     "ku": {
       "pageTitles": {
@@ -100,11 +98,11 @@
         "offers": "Xizmet",
         "landing": "Bijartina cih",
         "disclaimer": "Lêzanînên Weşîner û Têkillî",
-        "mainDisclaimer": "Lêzanînên Weşanîner û Têkillî – 'Integreat'",
+        "mainDisclaimer": "Lêzanînên Weşanîner û Têkillî – '{{appName}}'",
         "pois": "Babetên balkêş",
         "notFound": "Rûpel nehat dîtin"
       },
-      "metaDescription": "'Integreat' rêbera te ya dîcîtal li Almanyayê ye. Zzanyarî, rûdan û şêwirîna xwecihî peyde bike. Hertim birojkirî û bi zimanê te bixwe."
+      "metaDescription": "'{{appName}}' rêbera te ya dîcîtal li Almanyayê ye. Zzanyarî, rûdan û şêwirîna xwecihî peyde bike. Hertim birojkirî û bi zimanê te bixwe."
     },
     "pl": {
       "pageTitles": {
@@ -113,11 +111,11 @@
         "offers": "Oferty",
         "landing": "Wybór lokalizacji",
         "disclaimer": "Nota prawna i kontakt",
-        "mainDisclaimer": "Nota prawna i kontakt - Integreat",
+        "mainDisclaimer": "Nota prawna i kontakt - {{appName}}",
         "pois": "Points of Interest",
         "notFound": "Nie znaleziono strony"
       },
-      "metaDescription": "Integreat to e-przewodnik po Niemczech. Znajdziesz tu aktualne informacje, najnowsze wydarzenia i porady. Zawsze aktualne i w Twoim języku."
+      "metaDescription": "{{appName}} to e-przewodnik po Niemczech. Znajdziesz tu aktualne informacje, najnowsze wydarzenia i porady. Zawsze aktualne i w Twoim języku."
     },
     "ro": {
       "pageTitles": {
@@ -126,11 +124,11 @@
         "offers": "Oferte",
         "landing": "Alegerea locației",
         "disclaimer": "Caseta tehnică și contact",
-        "mainDisclaimer": "Caseta tehnică și contact - Integreat",
+        "mainDisclaimer": "Caseta tehnică și contact - {{appName}}",
         "pois": "Points of Interest",
         "notFound": "Pagină nu a fost găsită"
       },
-      "metaDescription": "Integreat este ghidul dvs. digital pentru Germania. Găsiți informații locale, evenimente și consiliere. Acestea sunt întotdeauna la zi și în limba dvs."
+      "metaDescription": "{{appName}} este ghidul dvs. digital pentru Germania. Găsiți informații locale, evenimente și consiliere. Acestea sunt întotdeauna la zi și în limba dvs."
     },
     "ru": {
       "pageTitles": {
@@ -139,11 +137,11 @@
         "offers": "Предложения",
         "landing": "Выбор места",
         "disclaimer": "Выходные данные и контактная информация",
-        "mainDisclaimer": "Выходные данные и контактная информация — Integreat",
+        "mainDisclaimer": "Выходные данные и контактная информация — {{appName}}",
         "pois": "Достопримечательности",
         "notFound": "Страница не найдена"
       },
-      "metaDescription": "Integreat — это ваш виртуальный гид по Германии. Здесь вы узнаете информацию о жизни страны и о проводимых здесь мероприятиях, а также сможете получить консультации — всегда в актуальном виде и на вашем языке."
+      "metaDescription": "{{appName}} — это ваш виртуальный гид по Германии. Здесь вы узнаете информацию о жизни страны и о проводимых здесь мероприятиях, а также сможете получить консультации — всегда в актуальном виде и на вашем языке."
     },
     "so": {
       "pageTitles": {
@@ -156,7 +154,7 @@
         "pois": "Qodobbada xiisaha leh",
         "notFound": "Bogga lama helin"
       },
-      "metaDescription": "Integreat waa tusahaaga dijitaalka ah ee Jarmalka. Raadi macluumaadka deegaanka, dhacdooyin iyo talobixino. Had iyo jeer cusbooneysan/casriyeysan oo luuqadaada ah."
+      "metaDescription": "{{appName}} waa tusahaaga dijitaalka ah ee Jarmalka. Raadi macluumaadka deegaanka, dhacdooyin iyo talobixino. Had iyo jeer cusbooneysan/casriyeysan oo luuqadaada ah."
     },
     "ti": {
       "pageTitles": {
@@ -169,7 +167,7 @@
         "pois": "ዘገድሱ ነጥብታት",
         "notFound": "ገጽ ኣይተረኽበን"
       },
-      "metaDescription": "Integreat ናይ ጀርመን ዲጂታላዊ መምርሒኻ እዩ። ከባብያዊ ሓበሬታ፡ ኣጋጣሚታትን ምኽርን ርኸብ። ኩሉግዜ ዝተሓደሰን ብቋንቋኻን።"
+      "metaDescription": "{{appName}} ናይ ጀርመን ዲጂታላዊ መምርሒኻ እዩ። ከባብያዊ ሓበሬታ፡ ኣጋጣሚታትን ምኽርን ርኸብ። ኩሉግዜ ዝተሓደሰን ብቋንቋኻን።"
     },
     "tr": {
       "pageTitles": {
@@ -178,11 +176,11 @@
         "offers": "Teklifler",
         "landing": "Konum seçimi",
         "disclaimer": "Künye ve iletişim",
-        "mainDisclaimer": "Künye ve iletişim - Integreat",
+        "mainDisclaimer": "Künye ve iletişim - {{appName}}",
         "pois": "İlgi alanı",
         "notFound": "Sayfa bulunamadı"
       },
-      "metaDescription": "Integreat, Almanya'daki dijital rehberinizdir. Burada yerel bilgiler, etkinlikler ve öneriler bulabilirsiniz. Her zaman günceldir ve kendi dilinizdedir."
+      "metaDescription": "{{appName}}, Almanya'daki dijital rehberinizdir. Burada yerel bilgiler, etkinlikler ve öneriler bulabilirsiniz. Her zaman günceldir ve kendi dilinizdedir."
     }
   },
   "categories": {
@@ -876,7 +874,7 @@
       "informationNotFound": "Nicht das Richtige gefunden?",
       "wantedInformation": "Welche Informationen fehlen hier?",
       "feedbackSent": "Feedback abgeschickt",
-      "thanksMessage": "Vielen Dank für Ihr Feedback. Damit helfen Sie uns, unsere Inhalte und die Integreat-App zu verbessern. Wir würden uns über weiteres Feedback freuen.",
+      "thanksMessage": "Vielen Dank für Ihr Feedback. Damit helfen Sie uns, unsere Inhalte und die {{appName}}-App zu verbessern. Wir würden uns über weiteres Feedback freuen.",
       "close": "Schließen",
       "negativeRating": "Diese Seite ist nicht hilfreich",
       "positiveRating": "Diese Seite ist hilfreich"
@@ -903,7 +901,6 @@
       "informationNotFound": "لم يتم العثور على المعلومة المناسبة؟",
       "wantedInformation": "ما هي المعلومات المفقودة هنا؟",
       "feedbackSent": "تم إرسال الملاحظة",
-      "thanksMessage": "شكرًا على ملاحظاتك. فمن خلالها تساعدنا على تطوير محتوياتنا وتطوير تطبيق إنتجريت. يُسعدنا تقديمك لمزيد من الملاحظات.",
       "close": "إغلاق",
       "negativeRating": "هذه الصفحة ليست مفيدة",
       "positiveRating": "هذه الصفحة مفيدة"
@@ -930,7 +927,7 @@
       "informationNotFound": "Not found what you were looking for?",
       "wantedInformation": "What information is missing?",
       "feedbackSent": "Feedback sent",
-      "thanksMessage": "Thank you for your feedback. This will help us to improve our content and the Integreat app. We would be happy to receive further feedback.",
+      "thanksMessage": "Thank you for your feedback. This will help us to improve our content and the {{appName}} app. We would be happy to receive further feedback.",
       "close": "Close",
       "negativeRating": "This site is not useful",
       "positiveRating": "This site is useful"
@@ -957,7 +954,7 @@
       "informationNotFound": "¿No ha encontrado lo que buscaba?",
       "wantedInformation": "¿Qué información falta aquí?",
       "feedbackSent": "Comentarios enviados",
-      "thanksMessage": "Muchas gracias por sus comentarios. Con ellos nos ayuda a mejorar nuestros contenidos y la app Integreat. Le invitamos a enviarnos más comentarios.",
+      "thanksMessage": "Muchas gracias por sus comentarios. Con ellos nos ayuda a mejorar nuestros contenidos y la app {{appName}}. Le invitamos a enviarnos más comentarios.",
       "close": "Cerrar",
       "negativeRating": "Esta página no sirve de ayuda",
       "positiveRating": "Esta página sirve de ayuda"
@@ -984,7 +981,7 @@
       "informationNotFound": "آنچه را که جستجو می کردید پیدا نکردید؟",
       "wantedInformation": "چه اطلاعاتی در اینجا موجود نیست؟",
       "feedbackSent": "بازخورد ارسال شد",
-      "thanksMessage": "از بازخورد شما سپاسگزاریم. شما با این کار به ما کمک می کنید تا مطالب خود و اپلیکیشن Integreat را بهبود بخشیم. از بازخوردهای بیشتر خوشحال خواهیم شد.",
+      "thanksMessage": "از بازخورد شما سپاسگزاریم. شما با این کار به ما کمک می کنید تا مطالب خود و اپلیکیشن {{appName}} را بهبود بخشیم. از بازخوردهای بیشتر خوشحال خواهیم شد.",
       "close": "بستن",
       "negativeRating": "این صفحه مفید نیست",
       "positiveRating": "این صفحه مفید است"
@@ -1011,7 +1008,7 @@
       "informationNotFound": "Vous n'avez pas trouvé ce qu'il vous faut ?",
       "wantedInformation": "Quelles sont les informations manquantes ici ?",
       "feedbackSent": "Avis envoyé",
-      "thanksMessage": "Nous vous remercions d'avoir donné votre avis. Cela nous aidera à améliorer notre contenu et l'application Integreat. Nous serions heureux de recevoir d'autres commentaires.",
+      "thanksMessage": "Nous vous remercions d'avoir donné votre avis. Cela nous aidera à améliorer notre contenu et l'application {{appName}}. Nous serions heureux de recevoir d'autres commentaires.",
       "close": "Fermer",
       "negativeRating": "Cette page n'est pas utile",
       "positiveRating": "Cette page est utile"
@@ -1038,7 +1035,7 @@
       "informationNotFound": "Niste pronašli pravu stvar?",
       "wantedInformation": "Koje informacije nedostaju?",
       "feedbackSent": "Feedback poslan",
-      "thanksMessage": "Zahvaljujemo na slanju feedbacka. Time nam pomažete da poboljšamo naše sadržaje i aplikaciju Integreat. Razveselili bi ste nas i dodatnim feedbackom.",
+      "thanksMessage": "Zahvaljujemo na slanju feedbacka. Time nam pomažete da poboljšamo naše sadržaje i aplikaciju {{appName}}. Razveselili bi ste nas i dodatnim feedbackom.",
       "close": "Zatvori",
       "negativeRating": "Ova stranica nije korisna",
       "positiveRating": "Ova stranica je korisna"
@@ -1065,7 +1062,7 @@
       "informationNotFound": "Gelo tiştê ku lê digeriyayî, nehat dîtin?",
       "wantedInformation": "Çi cûre zanyarî li vir tunene?",
       "feedbackSent": "'Feedback' hat şandin",
-      "thanksMessage": "Em ji 'Feedback'a te sipasdar in. Tu bi vî karê xwe alîkariya me dikî da ku em babetên xwe û Appa 'Integreat'ê baştir bikin. Emê ji Feedback'ên zêdetir kêfxweş bibin.",
+      "thanksMessage": "Em ji 'Feedback'a te sipasdar in. Tu bi vî karê xwe alîkariya me dikî da ku em babetên xwe û Appa '{{appName}}'ê baştir bikin. Emê ji Feedback'ên zêdetir kêfxweş bibin.",
       "close": "Girêdan",
       "negativeRating": "Ev rûpel sûdmend nîne",
       "positiveRating": "Ev rûpel sûdmend e"
@@ -1092,7 +1089,7 @@
       "informationNotFound": "Nie znalazłeś właściwej rzeczy?",
       "wantedInformation": "Jakich informacji tutaj brakuje?",
       "feedbackSent": "Wysłano opinię",
-      "thanksMessage": "Bardzo dziękujemy za opinię. Dzięki temu pomagasz nam ulepszać nasze treści i aplikację Integreat. Mamy nadzieję na dalsze informacje zwrotne.",
+      "thanksMessage": "Bardzo dziękujemy za opinię. Dzięki temu pomagasz nam ulepszać nasze treści i aplikację {{appName}}. Mamy nadzieję na dalsze informacje zwrotne.",
       "close": "Zamknij",
       "negativeRating": "Ta strona nie jest pomocna",
       "positiveRating": "Ta strona jest pomocna"
@@ -1119,7 +1116,7 @@
       "informationNotFound": "Nu ați găsit ce ați căutat?",
       "wantedInformation": "Ce informații lipsesc aici?",
       "feedbackSent": "Feedback expediat",
-      "thanksMessage": "Multe mulțumiri pentru feedback. Prin aceasta ne ajutați să îmbunătățim conținuturile noastre și Integreat-App. Ne-am bucura pentru un următor feedback.",
+      "thanksMessage": "Multe mulțumiri pentru feedback. Prin aceasta ne ajutați să îmbunătățim conținuturile noastre și {{appName}}-App. Ne-am bucura pentru un următor feedback.",
       "close": "Închideți",
       "negativeRating": "Această pagină nu este utilă",
       "positiveRating": "Această pagină este utilă"
@@ -1146,7 +1143,7 @@
       "informationNotFound": "Не нашли, что искали?",
       "wantedInformation": "Какая информация здесь отсутствует?",
       "feedbackSent": "Отзыв отправлен",
-      "thanksMessage": "Большое спасибо за отзыв. Ваши отзывы помогают нам улучшать содержимое и функции приложения Integreat. Мы будем рады получению дополнительной обратной связи.",
+      "thanksMessage": "Большое спасибо за отзыв. Ваши отзывы помогают нам улучшать содержимое и функции приложения {{appName}}. Мы будем рады получению дополнительной обратной связи.",
       "close": "Закрыть",
       "negativeRating": "Эта страница не содержит полезной информации",
       "positiveRating": "Эта страница содержит полезную информацию"
@@ -1173,7 +1170,7 @@
       "informationNotFound": "Ma aanan helin midka saxda ah?",
       "wantedInformation": "Macluumaad noocee ah ayaa halkan ka maqan?",
       "feedbackSent": "Jawaab celinta waa la diray",
-      "thanksMessage": "Waad ku mahadsan tahay jawaab-celintaada. Waxaad naga caawineysaa inaan hagaajino waxyaabaha ku jira aalada Integreat. Waxaan ku farxi laheyn inaan helno jawaab celin dheeraad ah.",
+      "thanksMessage": "Waad ku mahadsan tahay jawaab-celintaada. Waxaad naga caawineysaa inaan hagaajino waxyaabaha ku jira aalada {{appName}}. Waxaan ku farxi laheyn inaan helno jawaab celin dheeraad ah.",
       "close": "Xidh",
       "negativeRating": "Boggan waxtar ma leh",
       "positiveRating": "Boggan waa mid waxtar badan"
@@ -1200,7 +1197,7 @@
       "informationNotFound": "ነቲ ቅኑዕ ኣይረኸቦን፧",
       "wantedInformation": "እንታይ ሓበሬታ እዩ ኣብዚ ጎዲሉ ዘሎ፧",
       "feedbackSent": "መልሰ-ሓበሬታ ተሰዲዱ",
-      "thanksMessage": "ንመልሰ-ሓበሬታኻ ነመስግን። ንትሕዝቶና ከምኡ ድማ ነቲ ኣፕሊከሽን/ናይ ሞባይል ሶፍትዌር Integreat ንምምሕያሽ ትሕግዘና ኣለኻ። ተወሳኺ መልሰ-ሓበሬታ ደስ እናበለና ምተቐበልና።",
+      "thanksMessage": "ንመልሰ-ሓበሬታኻ ነመስግን። ንትሕዝቶና ከምኡ ድማ ነቲ ኣፕሊከሽን/ናይ ሞባይል ሶፍትዌር {{appName}} ንምምሕያሽ ትሕግዘና ኣለኻ። ተወሳኺ መልሰ-ሓበሬታ ደስ እናበለና ምተቐበልና።",
       "close": "ዕጾ",
       "negativeRating": "እዚ ገጽ’ዚ ሓጋዚ ኣይኮነን",
       "positiveRating": "እዚ ገጽ’ዚ ሓጋዚ እዩ"
@@ -1227,7 +1224,7 @@
       "informationNotFound": "Doğru şeyi bulamadınız mı?",
       "wantedInformation": "Burada hangi bilgiler eksik?",
       "feedbackSent": "Geri bildirim gönderildi",
-      "thanksMessage": "Geri bildiriminiz için çok teşekkürler. Bu sayede içeriklerimizi ve Integreat uygulamasını geliştirmemize yardımcı olacaksınız. Daha fazla geri bildirim almaktan memnuniyet duyarız.",
+      "thanksMessage": "Geri bildiriminiz için çok teşekkürler. Bu sayede içeriklerimizi ve {{appName}} uygulamasını geliştirmemize yardımcı olacaksınız. Daha fazla geri bildirim almaktan memnuniyet duyarız.",
       "close": "Kapat",
       "negativeRating": "Bu sayfa yardımcı olmadı",
       "positiveRating": "Bu sayfa yardımcı oldu"
@@ -1235,8 +1232,8 @@
   },
   "intro": {
     "de": {
-      "integreat": "Integreat",
-      "integreatDescription": "Integreat ist Ihr digitaler Guide für Deutschland",
+      "integreat": "{{appName}}",
+      "integreatDescription": "{{appName}} ist Ihr digitaler Guide für Deutschland",
       "search": "Suche",
       "searchDescription": "Anhand von Schlagwörtern schnell die richtige Information finden",
       "languageChange": "Sprachwechsel",
@@ -1246,9 +1243,9 @@
       "offers": "Angebote",
       "offersDescription": "Jobsuche, Praktikasuche und mehr in der Umgebung",
       "inquiryTitle": "Einstellungen",
-      "inquiryIntro": "Durch Klicken auf \"{{accept}}\" erlaube ich der Integreat-App, ...",
+      "inquiryIntro": "Durch Klicken auf \"{{accept}}\" erlaube ich der {{appName}}-App, ...",
       "sentryTitle": "App-Stabilität",
-      "sentryCondition": "... mit dem automatischen Senden von Absturzberichten Integreat zu verbessern",
+      "sentryCondition": "... mit dem automatischen Senden von Absturzberichten {{appName}} zu verbessern",
       "pushNewsTitle": "Push-Benachrichtigungen",
       "pushNewsCondition": "... mir Push-Benachrichtigungen zu den neuesten lokalen Nachrichten zu senden",
       "proposeCitiesTitle": "Nahegelegene Orte",
@@ -1263,8 +1260,7 @@
       "privacyPolicy": "Datenschutzerklärung"
     },
     "ar": {
-      "integreat": "Integreat",
-      "integreatDescription": "تطبيق إنتجريت هو دليلك الرقمي لألمانيا",
+      "integreat": "{{appName}}",
       "search": "البحث",
       "searchDescription": "استخدام الكلمات الرئيسية للعثور بسرعة على المعلومات الصحيحة",
       "languageChange": "تغيير اللغة",
@@ -1274,9 +1270,7 @@
       "offers": "العروض",
       "offersDescription": "البحث عن عمل، البحث عن تدريب والكثير من الأمور الأخرى في المنطقة المحيطة",
       "inquiryTitle": "الإعدادات",
-      "inquiryIntro": "من خلال النقر على \"{{accept}}\" أسمح لتطبيق إنتجريت، ...",
       "sentryTitle": "استقرار التطبيق",
-      "sentryCondition": "... من خلال الإرسال التلقائي، بتحسين تقارير الأعطال الخاصة بتطبيق إنتجريت",
       "pushNewsTitle": "الإخطارات اللحظية",
       "pushNewsCondition": "... إرسال الإخطارات اللحظية الخاصة بأحدث الأخبار المحلية لي",
       "proposeCitiesTitle": "الأماكن القريبة",
@@ -1291,8 +1285,8 @@
       "privacyPolicy": "بيان الخصوصية"
     },
     "en": {
-      "integreat": "Integreat",
-      "integreatDescription": "Integreat is your digital guide to life in Germany",
+      "integreat": "{{appName}}",
+      "integreatDescription": "{{appName}} is your digital guide to life in Germany",
       "search": "Search",
       "searchDescription": "Find the right information based on keywords",
       "languageChange": "Changing the language",
@@ -1302,9 +1296,9 @@
       "offers": "Offers",
       "offersDescription": "Job search, internship search and more in the area",
       "inquiryTitle": "Settings",
-      "inquiryIntro": "By clicking on \"{{accept}}\" I accept the Integreat app, ...",
+      "inquiryIntro": "By clicking on \"{{accept}}\" I accept the {{appName}} app, ...",
       "sentryTitle": "App stability",
-      "sentryCondition": "...improving Integreat by automatically sending crash reports",
+      "sentryCondition": "...improving {{appName}} by automatically sending crash reports",
       "pushNewsTitle": "Push notifications",
       "pushNewsCondition": "...send me push notifications on the latest local news",
       "proposeCitiesTitle": "Nearby locations",
@@ -1319,8 +1313,8 @@
       "privacyPolicy": "Data protection policy"
     },
     "es": {
-      "integreat": "Integreat",
-      "integreatDescription": "Integreat es su guía digital para Alemania",
+      "integreat": "{{appName}}",
+      "integreatDescription": "{{appName}} es su guía digital para Alemania",
       "search": "Buscar",
       "searchDescription": "Encuentre rápidamente la información correcta utilizando palabras clave",
       "languageChange": "Cambio de idioma",
@@ -1330,9 +1324,9 @@
       "offers": "Ofertas",
       "offersDescription": "Búsqueda de trabajo, búsqueda de prácticas y más en la zona",
       "inquiryTitle": "Ajustes",
-      "inquiryIntro": "Haciendo clic en \"{{accept}}\", acepto que la app Integreat...",
+      "inquiryIntro": "Haciendo clic en \"{{accept}}\", acepto que la app {{appName}}...",
       "sentryTitle": "Estabilidad de la app",
-      "sentryCondition": "...mejore Integreat mediante el envío automático de informes de interrupciones del servicio",
+      "sentryCondition": "...mejore {{appName}} mediante el envío automático de informes de interrupciones del servicio",
       "pushNewsTitle": "Notificaciones push",
       "pushNewsCondition": "...me envíe notificaciones push con las últimas noticias locales",
       "proposeCitiesTitle": "Ubicaciones cercanas",
@@ -1347,8 +1341,8 @@
       "privacyPolicy": "Declaración de privacidad"
     },
     "fa": {
-      "integreat": "Integreat",
-      "integreatDescription": "Integreat‏ راهنمای دیجیتالی شما در مورد آلمان است",
+      "integreat": "{{appName}}",
+      "integreatDescription": "{{appName}}‏ راهنمای دیجیتالی شما در مورد آلمان است",
       "search": "جستجو",
       "searchDescription": "با استفاده از کلمات کلیدی، اطلاعات صحیح را به سرعت پیدا کنید",
       "languageChange": "تغییر زبان",
@@ -1358,9 +1352,9 @@
       "offers": "خدمات",
       "offersDescription": "جستجوی کار، جستجوی کارورزی و بیشتر در محیط اطراف",
       "inquiryTitle": "تنظیمات",
-      "inquiryIntro": "با کلیک بر روی \"{{accept}}\" به اپلیکیشن Integreat اجازه می دهم،...",
+      "inquiryIntro": "با کلیک بر روی \"{{accept}}\" به اپلیکیشن {{appName}} اجازه می دهم،...",
       "sentryTitle": "پایداری اپلیکیشن",
-      "sentryCondition": "... با ارسال خودکار گزارش خرابی، Integreat را بهبود یابد",
+      "sentryCondition": "... با ارسال خودکار گزارش خرابی، {{appName}} را بهبود یابد",
       "pushNewsTitle": "پیام های فوری",
       "pushNewsCondition": "... پیام های فوری مربوط به اخبار محلی جدید، برای من ارسال شود",
       "proposeCitiesTitle": "مکان های نزدیک",
@@ -1375,8 +1369,8 @@
       "privacyPolicy": "بیانیه حفاظت از داده ها"
     },
     "fr": {
-      "integreat": "Integreat",
-      "integreatDescription": "Integreat est votre guide numérique pour l'Allemagne",
+      "integreat": "{{appName}}",
+      "integreatDescription": "{{appName}} est votre guide numérique pour l'Allemagne",
       "search": "Recherche",
       "searchDescription": "Trouvez rapidement la bonne information à l'aide de mots-clés",
       "languageChange": "Changement de langue",
@@ -1386,9 +1380,9 @@
       "offers": "Offres",
       "offersDescription": "Recherche d'emploi, recherche de stage et plus encore dans la région",
       "inquiryTitle": "Paramètres",
-      "inquiryIntro": "En cliquant sur « {{accept}} », j'autorise l'application Integreat...",
+      "inquiryIntro": "En cliquant sur « {{accept}} », j'autorise l'application {{appName}}...",
       "sentryTitle": "Stabilité de l'application",
-      "sentryCondition": "...à améliorer Integreat grâce à l'envoi automatique de rapports d'erreurs",
+      "sentryCondition": "...à améliorer {{appName}} grâce à l'envoi automatique de rapports d'erreurs",
       "pushNewsTitle": "Notifications push",
       "pushNewsCondition": "...à envoyer des notifications push sur l'actualité locale",
       "proposeCitiesTitle": "Lieux proches",
@@ -1403,8 +1397,8 @@
       "privacyPolicy": "Déclaration de confidentialité"
     },
     "hr": {
-      "integreat": "Integreat",
-      "integreatDescription": "Integreat je vaš digitalni vodič za Njemačku",
+      "integreat": "{{appName}}",
+      "integreatDescription": "{{appName}} je vaš digitalni vodič za Njemačku",
       "search": "Pretraživanje",
       "searchDescription": "Na temelju ključnih riječi brzo ćete pronaći odgovarajuću informaciju",
       "languageChange": "Promjena jezika",
@@ -1414,9 +1408,9 @@
       "offers": "Ponude",
       "offersDescription": "Traženje posla, traženje pripravništva i još puno toga u okolici",
       "inquiryTitle": "Postavke",
-      "inquiryIntro": "Klikom na \"{{accept}}\" dozvoljavam aplikaciji Integreat da...",
+      "inquiryIntro": "Klikom na \"{{accept}}\" dozvoljavam aplikaciji {{appName}} da...",
       "sentryTitle": "Stabilnost aplikacije",
-      "sentryCondition": "... automatskim slanjem izvještaja o padu sustava poboljšava Integreat",
+      "sentryCondition": "... automatskim slanjem izvještaja o padu sustava poboljšava {{appName}}",
       "pushNewsTitle": "Push obavijesti",
       "pushNewsCondition": "... mi šalje push obavijesti o najnovijim lokalni vijestima",
       "proposeCitiesTitle": "Mjesta u blizini",
@@ -1431,8 +1425,8 @@
       "privacyPolicy": "Izjava o zaštiti podataka"
     },
     "ku": {
-      "integreat": "Integreat",
-      "integreatDescription": "Integreat rêbera te ya dîcîtal derbarê Almanyayê ye",
+      "integreat": "{{appName}}",
+      "integreatDescription": "{{appName}} rêbera te ya dîcîtal derbarê Almanyayê ye",
       "search": "Lêgerîn",
       "searchDescription": "Bi bikaranîna Peyvên Kilîtî, lêzanînên esseh û durust bilez peyde bike",
       "languageChange": "Guhertina Ziman",
@@ -1442,9 +1436,9 @@
       "offers": "Xizmet",
       "offersDescription": "Lêgerîna li Şolê, Lêgerîna li Kursa Şola Ceribandinî û zêdetir li hawîrdorê",
       "inquiryTitle": "Eyarkirin",
-      "inquiryIntro": "Bi pelandina li ser\"{{accept}}\" ez rê didim Appa 'Integreat'ê, …",
+      "inquiryIntro": "Bi pelandina li ser\"{{accept}}\" ez rê didim Appa '{{appName}}'ê, …",
       "sentryTitle": "Mayîndetiya App'ê",
-      "sentryCondition": "... bi şandina xwebixwe ya rapora xerabûnê, Integreat'ê baştir bike",
+      "sentryCondition": "... bi şandina xwebixwe ya rapora xerabûnê, {{appName}}'ê baştir bike",
       "pushNewsTitle": "Peyamên bilez",
       "pushNewsCondition": "... peyamên bilez ên têkildarî nûçeyên xwecihî yên nû, sa min ra bê şandin",
       "proposeCitiesTitle": "Cihên Nêzik",
@@ -1459,8 +1453,8 @@
       "privacyPolicy": "Daxuyaniya Parastina Daneyan"
     },
     "pl": {
-      "integreat": "Integreat",
-      "integreatDescription": "Integreat to e-przewodnik po Niemczech",
+      "integreat": "{{appName}}",
+      "integreatDescription": "{{appName}} to e-przewodnik po Niemczech",
       "search": "Wyszukiwarka",
       "searchDescription": "Szybko znajdź odpowiednią informację za pomocą haseł",
       "languageChange": "Zmiana języka",
@@ -1472,7 +1466,7 @@
       "inquiryTitle": "Ustawienia",
       "inquiryIntro": "Naciskając \"{{accept}}„, zezwalam aplikacji App,...",
       "sentryTitle": "Stabilność aplikacji",
-      "sentryCondition": "... na ulepszanie Integreat dzięki automatycznemu przesyłaniu raportów o awariach",
+      "sentryCondition": "... na ulepszanie {{appName}} dzięki automatycznemu przesyłaniu raportów o awariach",
       "pushNewsTitle": "Powiadomienia typu push",
       "pushNewsCondition": "...na wysyłanie powiadomień push o aktualnościach lokalnych",
       "proposeCitiesTitle": "Lokalizacje w pobliżu",
@@ -1487,8 +1481,8 @@
       "privacyPolicy": "Oświadczenie o ochronie danych"
     },
     "ro": {
-      "integreat": "Integreat",
-      "integreatDescription": "Integreat constituie ghidul dvs. digital pentru Germania",
+      "integreat": "{{appName}}",
+      "integreatDescription": "{{appName}} constituie ghidul dvs. digital pentru Germania",
       "search": "Căutare",
       "searchDescription": "Folosind cuvinte cheie, găsiți rapid informațiile importante",
       "languageChange": "Schimbarea limbii",
@@ -1498,9 +1492,9 @@
       "offers": "Oferte",
       "offersDescription": "Căutare loc de muncă, căutare loc de practică și multe altele în împrejurimi",
       "inquiryTitle": "Setări",
-      "inquiryIntro": "Prin clic pe \"{{accept}}\" permit Integreat-App...",
+      "inquiryIntro": "Prin clic pe \"{{accept}}\" permit {{appName}}-App...",
       "sentryTitle": "Stabilitate app",
-      "sentryCondition": "... să îmbunătățească Integreat prin transmiterea automată a rapoartelor de blocare",
+      "sentryCondition": "... să îmbunătățească {{appName}} prin transmiterea automată a rapoartelor de blocare",
       "pushNewsTitle": "Notificări push",
       "pushNewsCondition": "... să-mi transmiteți notificări push referitoare la cele mai recente noutăți locale",
       "proposeCitiesTitle": "Locații aflate în apropiere",
@@ -1515,8 +1509,8 @@
       "privacyPolicy": "Declarație privind confidențialitatea"
     },
     "ru": {
-      "integreat": "Integreat",
-      "integreatDescription": "Integreat — это ваш цифровой гид по Германии",
+      "integreat": "{{appName}}",
+      "integreatDescription": "{{appName}} — это ваш цифровой гид по Германии",
       "search": "Поиск",
       "searchDescription": "Быстрый поиск необходимой информации по ключевым словам",
       "languageChange": "Смена языка",
@@ -1526,9 +1520,9 @@
       "offers": "Предложения",
       "offersDescription": "Поиск работы, поиск стажировки и многое другое рядом с вами",
       "inquiryTitle": "Настройки",
-      "inquiryIntro": "Нажав на кнопку \"{{accept}}\", я разрешаю приложению Integreat...",
+      "inquiryIntro": "Нажав на кнопку \"{{accept}}\", я разрешаю приложению {{appName}}...",
       "sentryTitle": "Стабильность приложения",
-      "sentryCondition": "... улучшать приложение Integreat при помощи автоматической отправки сообщений о сбоях",
+      "sentryCondition": "... улучшать приложение {{appName}} при помощи автоматической отправки сообщений о сбоях",
       "pushNewsTitle": "Push-уведомления",
       "pushNewsCondition": "... отправлять актуальные местные новости при помощи Push-уведомлений",
       "proposeCitiesTitle": "Места поблизости",
@@ -1543,8 +1537,8 @@
       "privacyPolicy": "Политика конфиденциальности"
     },
     "so": {
-      "integreat": "Integreat",
-      "integreatDescription": "Integreat waa tilmaamahaaga dhijitaalka ah ee Jarmalka",
+      "integreat": "{{appName}}",
+      "integreatDescription": "{{appName}} waa tilmaamahaaga dhijitaalka ah ee Jarmalka",
       "search": "Raadin",
       "searchDescription": "U hel macluumaadka saxda ah si dhakhso leh adoo isticmaalaya ereyada furaha ah",
       "languageChange": "Bedelka luqadda",
@@ -1554,9 +1548,9 @@
       "offers": "Heshiisyo",
       "offersDescription": "Raadin shaqo, raadin shaqo-barasho iyo inbadan oo ka jira deegaanka",
       "inquiryTitle": "Dejinta (setting-ka)",
-      "inquiryIntro": "Adigoo gujinaya \"{{accept}}\" Waxaan u oggolaanayaa aalada Integreat inay...",
+      "inquiryIntro": "Adigoo gujinaya \"{{accept}}\" Waxaan u oggolaanayaa aalada {{appName}} inay...",
       "sentryTitle": "Deganaanshaha Aaladda",
-      "sentryCondition": "... si looga hagaajiyo Integreat dhanka diritaanka otomatigga ah ee warbixinnada ciladeynta",
+      "sentryCondition": "... si looga hagaajiyo {{appName}} dhanka diritaanka otomatigga ah ee warbixinnada ciladeynta",
       "pushNewsTitle": "Ogaysiisyada",
       "pushNewsCondition": "... ii soo dirto ogeysiisyada saabsan wararkii ugu dambeeyay ee deegaanka",
       "proposeCitiesTitle": "Meelaha dhaw",
@@ -1571,8 +1565,8 @@
       "privacyPolicy": "Ilaalinta xogta"
     },
     "ti": {
-      "integreat": "Integreat",
-      "integreatDescription": "Integreat ናብ ጅርመን እትትኸድሉ መምርሒ እዩ።",
+      "integreat": "{{appName}}",
+      "integreatDescription": "{{appName}} ናብ ጅርመን እትትኸድሉ መምርሒ እዩ።",
       "search": "ፈትሽ",
       "searchDescription": "ቁልፊ-ቃላት ብምጥቃም ነቲ ቅኑዕ ሓበሬታ ብቕልጡፍ ርኸብ",
       "languageChange": "ምቕያር ቋንቋ",
@@ -1582,9 +1576,9 @@
       "offers": "ውዕላት",
       "offersDescription": "ፍተሻ ስራሕ፡ ናይ ተልምዴንነት ስራሕን ካልእ ተወሳኽን ኣብቲ ከባቢ",
       "inquiryTitle": "ምትኽኻላት",
-      "inquiryIntro": "ኣብ \"{{accept}}\" ብምጥዋቕ እቲ ኣፕ/ናይ ሞባይል ሶፍትዌር Integreat … ንኽገብር የፍቅደሉ ኣለኹ",
+      "inquiryIntro": "ኣብ \"{{accept}}\" ብምጥዋቕ እቲ ኣፕ/ናይ ሞባይል ሶፍትዌር {{appName}} … ንኽገብር የፍቅደሉ ኣለኹ",
       "sentryTitle": "ናይ ኣፕ ርጉእነት",
-      "sentryCondition": "… ናይ ብልሽት/ውድቀት ጸብጻባት ብኣውቶማቲካዊ መንገዲ ብምስዳድ ንIntegreat ምምሕያሽ",
+      "sentryCondition": "… ናይ ብልሽት/ውድቀት ጸብጻባት ብኣውቶማቲካዊ መንገዲ ብምስዳድ ን{{appName}} ምምሕያሽ",
       "pushNewsTitle": "ምልክታታት መልእኽቲ",
       "pushNewsCondition": "…ብዛዕባ እቲ ሓድሽ ዜና ምልክታታት መልእኽቲ ክሰደለይ",
       "proposeCitiesTitle": "ኣብ ጥቓኻ ዘለዎ ቦታታት",
@@ -1599,8 +1593,8 @@
       "privacyPolicy": "ሓለዋ ዳታ/ሓበሬታ"
     },
     "tr": {
-      "integreat": "Integreat",
-      "integreatDescription": "Integreat, Almanya'daki dijital rehberinizdir",
+      "integreat": "{{appName}}",
+      "integreatDescription": "{{appName}}, Almanya'daki dijital rehberinizdir",
       "search": "Arama",
       "searchDescription": "Anahtar kelimeler kullanarak doğru bilgileri hızlıca bulun",
       "languageChange": "Dil değişimi",
@@ -1610,9 +1604,9 @@
       "offers": "Teklifler",
       "offersDescription": "Çevrenizde iş arama, staj arama ve daha fazlası",
       "inquiryTitle": "Ayarlar",
-      "inquiryIntro": "\"{{accept}}\" üzerine tıklayarak Integreat uygulamasına, ...",
+      "inquiryIntro": "\"{{accept}}\" üzerine tıklayarak {{appName}} uygulamasına, ...",
       "sentryTitle": "Uygulama stabilitesi",
-      "sentryCondition": "... hata raporlarının otomatik olarak gönderilmesiyle, Integreat'in geliştirilmesine izin veriyorum",
+      "sentryCondition": "... hata raporlarının otomatik olarak gönderilmesiyle, {{appName}}'in geliştirilmesine izin veriyorum",
       "pushNewsTitle": "Push bildirimleri",
       "pushNewsCondition": "... bana en son yerel haberler hakkında Push bildirimleri göndermesine izin veriyorum",
       "proposeCitiesTitle": "Yakındaki konumlar",
@@ -2065,55 +2059,53 @@
   "settings": {
     "de": {
       "sentryTitle": "App-Stabilität",
-      "sentryDescription": "Durch das automatische Senden von Absturzberichten die Integreat-App verbessern",
+      "sentryDescription": "Durch das automatische Senden von Absturzberichten die {{appName}}-App verbessern",
       "pushNewsTitle": "Push-Benachrichtigungen",
       "pushNewsDescription": "Push-Benachrichtigungen für die neuesten lokalen Nachrichten erhalten",
       "proposeCitiesTitle": "Nahegelegene Orte",
       "proposeCitiesDescription": "Mithilfe des GPS-Standortes Vorschläge für nahegelegene Orte erhalten",
-      "about": "Über Integreat",
+      "about": "Über {{appName}}",
       "privacyPolicy": "Datenschutzerklärung",
       "version": "Version: {{version}}",
       "openSourceLicenses": "Open-Source-Lizenzen"
     },
     "ar": {
       "sentryTitle": "استقرار التطبيق",
-      "sentryDescription": "تطوير تطبيق إنتجريت من خلال الإرسال التلقائي لتقارير الأعطال",
       "pushNewsTitle": "الإخطارات اللحظية",
       "pushNewsDescription": "تلقي الإخطارات اللحظية لأحدث الأخبار المحلية",
       "proposeCitiesTitle": "الأماكن القريبة",
       "proposeCitiesDescription": "تلقي اقتراحات الأماكن القريبة بمساعدة موقع الـGPS",
-      "about": "حول تطبيق إنتجريت",
       "privacyPolicy": "بيان الخصوصية",
       "version": "الإصدار: {{version}}",
       "openSourceLicenses": "تراخيص مفتوحة المصدر"
     },
     "en": {
       "sentryTitle": "App stability",
-      "sentryDescription": "Improve the Integreat app by automatically sending crash reports",
+      "sentryDescription": "Improve the {{appName}} app by automatically sending crash reports",
       "pushNewsTitle": "Push notifications",
       "pushNewsDescription": "Receive push notifications for the latest local news",
       "proposeCitiesTitle": "Nearby locations",
       "proposeCitiesDescription": "Receive suggestions for nearby locations with the help of GPS location services",
-      "about": "About Integreat",
+      "about": "About {{appName}}",
       "privacyPolicy": "Data protection policy",
       "version": "Version: {{version}}",
       "openSourceLicenses": "Open source licences"
     },
     "es": {
       "sentryTitle": "Estabilidad de la app",
-      "sentryDescription": "Mejorar la app Integreat mediante el envío automático de informes de interrupciones del servicio",
+      "sentryDescription": "Mejorar la app {{appName}} mediante el envío automático de informes de interrupciones del servicio",
       "pushNewsTitle": "Notificaciones push",
       "pushNewsDescription": "Recibir notificaciones push con las últimas noticias locales",
       "proposeCitiesTitle": "Ubicaciones cercanas",
       "proposeCitiesDescription": "Recibir recomendaciones de ubicaciones cercanas empleando la ubicación GPS",
-      "about": "Acerca de Integreat",
+      "about": "Acerca de {{appName}}",
       "privacyPolicy": "Declaración de privacidad",
       "version": "Versión: {{version}}",
       "openSourceLicenses": "Licencias de fuente abierta"
     },
     "fa": {
       "sentryTitle": "پایداری اپلیکیشن",
-      "sentryDescription": "با ارسال خودکار گزارش های خرابی، اپلیکیشن‎ Integreat را بهبود بخشید",
+      "sentryDescription": "با ارسال خودکار گزارش های خرابی، اپلیکیشن‎ {{appName}} را بهبود بخشید",
       "pushNewsTitle": "پیام های فوری",
       "pushNewsDescription": "دریافت پیام های فوری برای آخرین اخبار محلی جدید",
       "proposeCitiesTitle": "مکان های نزدیک",
@@ -2125,31 +2117,31 @@
     },
     "fr": {
       "sentryTitle": "Stabilité de l'application",
-      "sentryDescription": "Améliorer l'application Integreat grâce à l'envoi automatique de rapports d'erreur",
+      "sentryDescription": "Améliorer l'application {{appName}} grâce à l'envoi automatique de rapports d'erreur",
       "pushNewsTitle": "Notifications push",
       "pushNewsDescription": "Recevoir des notifications push sur l'actualité locale",
       "proposeCitiesTitle": "Lieux proches",
       "proposeCitiesDescription": "Obtenir des propositions des lieux à proximité grâce à la géolocalisation",
-      "about": "À propos d'Integreat",
+      "about": "À propos d'{{appName}}",
       "privacyPolicy": "Déclaration de confidentialité",
       "version": "Version : {{version}}",
       "openSourceLicenses": "Licences en open source"
     },
     "hr": {
       "sentryTitle": "Stabilnost aplikacije",
-      "sentryDescription": "Automatskim slanjem izvještaja o padu sustava aplikacija Integreat se poboljšava",
+      "sentryDescription": "Automatskim slanjem izvještaja o padu sustava aplikacija {{appName}} se poboljšava",
       "pushNewsTitle": "Push obavijesti",
       "pushNewsDescription": "Primaj push obavijesti s najnovijim lokalnim vijestima",
       "proposeCitiesTitle": "Mjesta u blizini",
       "proposeCitiesDescription": "Primaj prijedloge za mjesta u blizini putem GPS lokacije",
-      "about": "O aplikaciji Integreat",
+      "about": "O aplikaciji {{appName}}",
       "privacyPolicy": "Izjava o zaštiti podataka",
       "version": "Verzija: {{version}}",
       "openSourceLicenses": "Licencije otvorenog koda"
     },
     "ku": {
       "sentryTitle": "Mayîndetiya App'ê",
-      "sentryDescription": "Bi şandina xwebixwe ya raporên xerabûnê, Appa 'Integreat'ê baştir bike",
+      "sentryDescription": "Bi şandina xwebixwe ya raporên xerabûnê, Appa '{{appName}}'ê baştir bike",
       "pushNewsTitle": "Peyamên bilez",
       "pushNewsDescription": "Wergirtina peyamên bilez sa dawîn nûçeyên xwecihî yên nû",
       "proposeCitiesTitle": "Cihên Nêzik",
@@ -2161,72 +2153,72 @@
     },
     "pl": {
       "sentryTitle": "Stabilność aplikacji",
-      "sentryDescription": "Ulepszanie aplikacji Integreat przez automatycznie wysyłanie raportów o awariach",
+      "sentryDescription": "Ulepszanie aplikacji {{appName}} przez automatycznie wysyłanie raportów o awariach",
       "pushNewsTitle": "Powiadomienia typu push",
       "pushNewsDescription": "Otrzymywanie powiadomień typu push o aktualnościach lokalnych",
       "proposeCitiesTitle": "Lokalizacje w pobliżu",
       "proposeCitiesDescription": "Uzyskiwanie sugestii dotyczących lokalizacji w pobliżu za pomocą lokalizacji GPS",
-      "about": "O Integreat",
+      "about": "O {{appName}}",
       "privacyPolicy": "Oświadczenie o ochronie danych",
       "version": "Wersja: {{version}}",
       "openSourceLicenses": "Licencje open source"
     },
     "ro": {
       "sentryTitle": "Stabilitate app",
-      "sentryDescription": "Îmbunătățiți Integreat-App prin trimiterea automată a rapoartelor de blocare",
+      "sentryDescription": "Îmbunătățiți {{appName}}-App prin trimiterea automată a rapoartelor de blocare",
       "pushNewsTitle": "Notificări push",
       "pushNewsDescription": "Primiți notificări push pentru cele mai recente noutăți locale",
       "proposeCitiesTitle": "Locații aflate în apropiere",
       "proposeCitiesDescription": "Primiți pe baza locației GPS propuneri pentru locații aflate în apropiere",
-      "about": "Prin intermediul Integreat",
+      "about": "Prin intermediul {{appName}}",
       "privacyPolicy": "Declarație privind confidențialitatea",
       "version": "Versiune: {{version}}",
       "openSourceLicenses": "Licențe open source"
     },
     "ru": {
       "sentryTitle": "Стабильность приложения",
-      "sentryDescription": "Повышение стабильности работы приложения Integreat путем автоматической отправки сообщений о сбоях",
+      "sentryDescription": "Повышение стабильности работы приложения {{appName}} путем автоматической отправки сообщений о сбоях",
       "pushNewsTitle": "Push-уведомления",
       "pushNewsDescription": "Push-уведомления необходимы для получения самых актуальных местных новостей",
       "proposeCitiesTitle": "Места поблизости",
       "proposeCitiesDescription": "При помощи GPS-координат вы будете узнавать о предложениях в находящихся поблизости местах",
-      "about": "Что такое Integreat",
+      "about": "Что такое {{appName}}",
       "privacyPolicy": "Политика конфиденциальности",
       "version": "Версия: {{version}}",
       "openSourceLicenses": "Лицензии на ПО с открытым исходным кодом"
     },
     "so": {
       "sentryTitle": "Deganaanshaha Aaladda",
-      "sentryDescription": "Hagaaji Integreat adigoo si otomatigga ah u diraya warbixinnada ciladaha",
+      "sentryDescription": "Hagaaji {{appName}} adigoo si otomatigga ah u diraya warbixinnada ciladaha",
       "pushNewsTitle": "Ogaysiisyada",
       "pushNewsDescription": "Hel ogeysiisyada ku saabsan warbixinada deegaanka ee ugu dambeeyey",
       "proposeCitiesTitle": "Meelaha dhaw",
       "proposeCitiesDescription": "Hel soo jeedino ah goobaha ugu dhow adigoo isticmaalaya GPS",
-      "about": "Ku saabsan Integreat",
+      "about": "Ku saabsan {{appName}}",
       "privacyPolicy": "Ilaalinta xogta",
       "version": "Nooca: {{version}}",
       "openSourceLicenses": "Ruqsadaha-il-furan"
     },
     "ti": {
       "sentryTitle": "ናይ ኣፕ ርጉእነት",
-      "sentryDescription": "ናይ ብልሽት/ውድቀት ጸብጻባት ብኣውቶማቲካዊ መንገዲ ብምስዳድ ንኣፕ Integreat ኣመሓይሾ",
+      "sentryDescription": "ናይ ብልሽት/ውድቀት ጸብጻባት ብኣውቶማቲካዊ መንገዲ ብምስዳድ ንኣፕ {{appName}} ኣመሓይሾ",
       "pushNewsTitle": "ምልክታታት መልእኽቲ",
       "pushNewsDescription": "ነቲ ሓድሽ ከባብያዊ ዜና ዝኾኑ ምልክታታት መልእኽቲ ተቐበል",
       "proposeCitiesTitle": "ኣብ ጥቓኻ ዘለዎ ቦታታት",
       "proposeCitiesDescription": "ነቲ ናይ GPS (ጂፒኤስ) ቦታ ብምጥቃም ብዛዕባ ኣብ ጥቓኻ ዘለዉ ቦታታት ሓሳብ ተቐበል",
-      "about": "ብዛዕባ Integreat",
+      "about": "ብዛዕባ {{appName}}",
       "privacyPolicy": "ሓለዋ ዳታ/ሓበሬታ",
       "version": "ዓይነት፥ {{version}}",
       "openSourceLicenses": "ናጻ-ዝምንጮም ፍቓዳት ስራሕ"
     },
     "tr": {
       "sentryTitle": "Uygulama stabilitesi",
-      "sentryDescription": "Hata raporlarını otomatik olarak göndererek Integreat uygulamasını geliştirin",
+      "sentryDescription": "Hata raporlarını otomatik olarak göndererek {{appName}} uygulamasını geliştirin",
       "pushNewsTitle": "Push bildirimleri",
       "pushNewsDescription": "En son yerel haberler için Push bildirimleri alın",
       "proposeCitiesTitle": "Yakındaki konumlar",
       "proposeCitiesDescription": "GPS konumunu kullanarak yakındaki konumlar için öneriler alın",
-      "about": "Integreat hakkında",
+      "about": "{{appName}} hakkında",
       "privacyPolicy": "Gizlilik politikası",
       "version": "Versiyon: {{version}}",
       "openSourceLicenses": "Açık kaynak lisansları"
