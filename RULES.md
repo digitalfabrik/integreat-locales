@@ -1,6 +1,3 @@
 # Rules for translators
 
-* The following terms  mustn't be translated
-  * Integreat
-  * tünews
-* The notation `{{variable}}` corresponds to a variable which gets replaced automatically
+See the following wiki article about translation rules: [wiki.integreat-app.de/translations-internal](https://wiki.integreat-app.de/translations-internal)

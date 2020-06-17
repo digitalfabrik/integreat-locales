@@ -82,7 +82,7 @@ The general process for the [./locales.json](locales.json) is as follows:
 * Create a branch for the issue
 * Create the directory `./external-jobs/<identifier>/sent`, where `<identifier>` is `year>-<month>-<optional_key>`
 * Run `./manage convert ./locales.json ./external-jobs/<identifier>/sent`
-* Send the `sent` folder to the external translation service
+* Send the `sent` folder and the [translation rules](./RULES.md) to the external translation service
 * Copy the received CSVs to `./external-jobs/<identifier>/received`
 * Run `./manage convert ./external-jobs/<identifier>/received ./locales.json json`
 * Open a PR with the changes. Except for proofreading jobs, only keys should be added.
