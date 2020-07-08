@@ -6,5 +6,6 @@ function to_ods {
   rm $1/*.csv
 }
 
-to_ods ./external-jobs/2020-06-malteser/sent/native-locales
+to_ods ./external-jobs/2020-06-malteser/sent/native
+to_ods ./external-jobs/2020-06-malteser/sent/malte-overrides
 to_ods ./external-jobs/2020-06-malteser/sent
