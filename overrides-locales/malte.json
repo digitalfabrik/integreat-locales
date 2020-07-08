@@ -1,0 +1,49 @@
+{
+  "app": {
+    "de": {
+      "pageTitles": {
+        "events": "Termine"
+      },
+      "metaDescription": "{{appName}} ist Ihr digitaler Helfer von den Maltesern. Hier finden Sie lokale Informationen, Termine und Beratung aus Ihrer Einrichtung. Immer aktuell und in Ihrer Sprache!"
+    }
+  },
+  "dashboard": {
+    "de": {
+      "events": "Termine"
+    }
+  },
+  "error": {
+    "de": {
+      "notFound": {
+        "event": "Dieser Termin wurde leider nicht gefunden."
+      },
+      "goTo": {
+        "events": "Zu den Terminen"
+      }
+    }
+  },
+  "events": {
+    "de": {
+      "events": "Termine",
+      "currentlyNoEvents": "Es gibt aktuell keine Termine."
+    }
+  },
+  "feedback": {
+    "de": {
+      "contentOfEvent": "Inhalt des Termins \"{{event}}\""
+    }
+  },
+  "intro": {
+    "de": {
+      "integreatDescription": "{{appName}} ist Ihr digitaler Helfer von den Maltesern",
+      "events": "Termine",
+      "eventsDescription": "Aktuelle Termine und Veranstaltungen"
+    }
+  },
+  "layout": {
+    "de": {
+      "events": "Termine",
+      "noEvents": "Keine Termine"
+    }
+  }
+}
