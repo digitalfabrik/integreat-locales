@@ -165,7 +165,7 @@ const writeJsonFromCsv = (locales, toPath, sourceLanguage) => {
 
     fs.writeFileSync(toPath, JSON.stringify(json, null, 2) + '\n', 'utf-8')
 
-    const logMessages = Object.entries(json).map(([moduleKey, module]) => `Languages is module ${moduleKey}: ${Object.keys(module).length}`)
+    const logMessages = Object.entries(json).map(([moduleKey, module]) => `Languages in module ${moduleKey}: ${Object.keys(module).length}`)
 
     logMessages.forEach(message => console.log(message))
   })
