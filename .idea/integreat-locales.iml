@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/native-locales" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/tools" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/external-jobs" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/overrides-locales" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/origin" />
     </content>
     <orderEntry type="inheritedJdk" />
