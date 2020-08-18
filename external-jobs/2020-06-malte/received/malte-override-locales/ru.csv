@@ -1,6 +1,6 @@
 "key","source_language","target_language"
 "app.pageTitles.events","Termine","События"
-"app.metaDescription","{{appName}} ist Ihr digitaler Helfer von den Maltesern. Hier finden Sie lokale Informationen, Termine und Beratung aus Ihrer Einrichtung. Immer aktuell und in Ihrer Sprache!{{appName}} ist Ihr digitaler Helfer von den Maltesern. Hier finden Sie lokale Informationen, Termine und Beratung aus Ihrer Einrichtung. Immer aktuell und in Ihrer Sprache!","Приложение {{appName}} – это ваш цифровой помощник от Мальтийского ордена. Он предоставит вам местную информацию, информацию о событиях, а также консультации от вашей организации. Всегда актуальная информация на вашем языке!"
+"app.metaDescription","{{appName}} ist Ihr digitaler Helfer von den Maltesern. Hier finden Sie lokale Informationen, Termine und Beratung aus Ihrer Einrichtung. Immer aktuell und in Ihrer Sprache!","Приложение {{appName}} – это ваш цифровой помощник от Мальтийского ордена. Он предоставит вам местную информацию, информацию о событиях, а также консультации от вашей организации. Всегда актуальная информация на вашем языке!"
 "dashboard.events","Termine","События"
 "error.notFound.event","Dieser Termin wurde leider nicht gefunden.","К сожалению, это событие не было найдено."
 "error.goTo.events","Zu den Terminen","К событиям"
