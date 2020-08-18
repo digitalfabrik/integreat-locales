@@ -1,6 +1,17 @@
 # Locales for the Integreat frontend
 
-## Usage
+## Content
+* [Setup](#setup)
+* [Pulling changes](#pulling-changes)
+* [Pushing changes](#pushing-changes)
+* [Submitting locales for translation](#submitting-locales-for-translation)
+* [Conversion between JSON, CSV and ODS](#conversion-between-json-csv-and-ods)
+* [Used file formats](#used-file-formats)
+* [Origin of the locales](#origin-of-the-locales)
+
+## Setup and Usage
+
+### Setup
 
 This repository should be included as a [git subtree](https://raw.githubusercontent.com/git/git/master/contrib/subtree/git-subtree.txt). 
 
@@ -49,18 +60,7 @@ Note that we are using the `--squash` command which will create a merge commit:
 * | 7053596b NATIVE-Y: Some other change
 ```
 
-### Pushing Changes
-
-**No action should cause a merge conflict! If there is a conflict then you are using subtrees wrong!**
-
-Modifications on the locales files should **only be made directly in the `integreat-locales` repository**.
-Just create a branch and a PR in the `integreat-locales` repo and pull the corresponding branch using the command mentioned in [Pulling Changes](#pulling-changes).
-
-**Note that you should not rebase the new branch after you pulled it into another repository.**
-
-After merging `<branch>` into `master` it is possible for anyone to pull again from `master` like described in [Pulling Changes](#pushing-changes). This step is optional for you right now as it will be pulled by the next person which creates a PR.
-
-### Tips & Tricks
+#### Tips & Tricks
 
 As the pull command is quite long you can define an alias:
 ```bash
@@ -73,34 +73,54 @@ Then you can pull using:
 git pull-locales <branch>
 ```
 
-## Submitting a translation job
+### Pushing Changes
 
-Once in a while the texts in this repository get sent to professional translators.
-The general process for the [./locales.json](locales.json) is as follows:
+**No action should cause a merge conflict! If there is a conflict then you are using subtrees wrong!**
 
-* Create an issue that a new translation job should be created
-* Create a branch for the issue
-* Create the directory `./external-jobs/<identifier>/sent`, where `<identifier>` is `year>-<month>-<optional_key>`
-* Run `./manage convert ./locales.json ./external-jobs/<identifier>/sent`
+Modifications on the locales files should **only be made directly in the `integreat-locales` repository**.
+Just create a branch and a PR in the `integreat-locales` repo and pull the corresponding branch using the command mentioned in [Pulling Changes](#pulling-changes).
+
+**Note that you should not rebase the new branch after you pulled it into another repository.**
+
+After merging `<branch>` into `master` it is possible for anyone to pull again from `master` like described in [Pulling Changes](#pushing-changes). This step is optional for you right now as it will be pulled by the next person which creates a PR.
+
+## Submitting locales for translation
+
+Translations of the locales should be done by professional translators. If there are enough untranslated locales,
+the locales can be submitted for professional translations as follows:
+
+* Create an issue in our issue tracker
+* Create a new branch for the issue
+* Create the directory `./external-jobs/<identifier>/sent`
+    * `<identifier>` should be `<year>-<month>-<optional_key>`
+    * Examples: `2020-01` and `2020-06-malte`
+* Convert our .json files to csv and/or ods:
+    * Default locales: `./manage convert ./locales.json ./external-jobs/<identifier>/sent`
+    * Malte locales: `./manage convert ./override-locales/malte.json ./external-jobs/<identifier>/sent/malte-override-locales`
+    * Native locales: `./manage convert ./native-locales/locales.json ./external-jobs/<identifier>/sent/native-locales`
 * Send the `sent` folder and the [translation rules](./RULES.md) to the external translation service
-* Copy the received CSVs to `./external-jobs/<identifier>/received`
-* Run `./manage convert ./external-jobs/<identifier>/received ./locales.json json`
-* Open a PR with the changes. Except for proofreading jobs, only keys should be added.
 
-Similarly, the process has to be repeated for [./native-locales/locales.json](native-locales/locales.json).
+### Receiving locales after translation
 
-## How to convert between JSON and CSVs
+* Copy the received files to `./external-jobs/<identifier>/received`
+* Convert the received files to our internal json format:
+    * Default locales: `./manage convert ./external-jobs/<identifier>/received ./locales.json json`
+    * Malte locales: `./manage convert ./external-jobs/<identifier>/received/malte-override-locales ./override-locales/malte.json json`
+    * Native locales: `./manage convert ./external-jobs/<identifier>/received/native-locales ./native-locales/locales.json json`
+* Open a PR with the changes. Except for proofreading jobs, no existing values should be changed.
 
-The `manage` script can be used to prepare locales for external translation
+## Conversion between JSON, CSV and ODS
 
-### Converting to CSV
+The `manage` script can be used to prepare locales for external translation by converting our internal json files to csv and ods files.
+
+### JSON to CSV
 
 Example: `./manage convert ./locales.json ./csv-job csv`
 
 Notes:
 * The module keys in the CSVs are sorted
 
-### Converting to JSON
+### CSV to JSON
 
 Example: `./manage convert ./csv-job ./locales.json json`
  
@@ -108,20 +128,22 @@ Notes:
 * The module and language keys in the JSON are sorted
 * The source language is always the first language
 
-# File formats
+## Used file formats
 
-## JSON
+### JSON
 
-* JSONs are encoded in UTF-8 S
-* Structured via objects: `module name` > `langauge` > `nested keys` > `translations`
+* Used for internal representation of our locales
+* Structure: `namespace` > `language` > `(nested) key` > `translation`
+* UTF-8 encoded
 
-## CSV
+### CSV
 
-* CSVs are separated by a ',' and are encoded in UTF-8
+* Comma Separated Values 
 * Each CSV contains exactly one language
 * Structured via dot-delimited keys. Keys for translations are created using module names and nested keys. 
+* UTF-8 encoded
 
-## ODS
+### ODS
 
 * Used for distribution of CSVs are the CSV format does not define the exact format.
 * For an example see `./external-jobs/2020-06-malteser`
