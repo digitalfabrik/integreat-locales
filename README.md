@@ -95,18 +95,18 @@ the locales can be submitted for professional translations as follows:
     * `<identifier>` should be `<year>-<month>-<optional_key>`
     * Examples: `2020-01` and `2020-06-malte`
 * Convert our .json files to csv and/or ods:
-    * Default locales: `./manage convert ./locales.json ./external-jobs/<identifier>/sent`
-    * Malte locales: `./manage convert ./override-locales/malte.json ./external-jobs/<identifier>/sent/malte-override-locales`
-    * Native locales: `./manage convert ./native-locales/locales.json ./external-jobs/<identifier>/sent/native-locales`
+    * Default locales: `./tools/manage convert ./locales.json ./external-jobs/<identifier>/sent`
+    * Malte locales: `./tools/manage convert ./override-locales/malte.json ./external-jobs/<identifier>/sent/malte-override-locales`
+    * Native locales: `./tools/manage convert ./native-locales/locales.json ./external-jobs/<identifier>/sent/native-locales`
 * Send the `sent` folder and the [translation rules](./RULES.md) to the external translation service
 
 ### Receiving locales after translation
 
 * Copy the received files to `./external-jobs/<identifier>/received`
 * Convert the received files to our internal json format:
-    * Default locales: `./manage convert ./external-jobs/<identifier>/received ./locales.json json`
-    * Malte locales: `./manage convert ./external-jobs/<identifier>/received/malte-override-locales ./override-locales/malte.json json`
-    * Native locales: `./manage convert ./external-jobs/<identifier>/received/native-locales ./native-locales/locales.json json`
+    * Default locales: `./tools/manage convert ./external-jobs/<identifier>/received ./locales.json json`
+    * Malte locales: `./tools/manage convert ./external-jobs/<identifier>/received/malte-override-locales ./override-locales/malte.json json`
+    * Native locales: `./tools/manage convert ./external-jobs/<identifier>/received/native-locales ./native-locales/locales.json json`
 * Open a PR with the changes. Except for proofreading jobs, no existing values should be changed.
 
 ## Conversion between JSON, CSV and ODS
@@ -115,14 +115,14 @@ The `manage` script can be used to prepare locales for external translation by c
 
 ### JSON to CSV
 
-Example: `./manage convert ./locales.json ./csv-job csv`
+Example: `./tools/manage convert ./locales.json ./csv-job csv`
 
 Notes:
 * The module keys in the CSVs are sorted
 
 ### CSV to JSON
 
-Example: `./manage convert ./csv-job ./locales.json json`
+Example: `./tools/manage convert ./csv-job ./locales.json json`
  
 Notes:
 * The module and language keys in the JSON are sorted
@@ -145,7 +145,7 @@ Notes:
 
 ### ODS
 
-* Used for distribution of CSVs are the CSV format does not define the exact format.
+* Used for distribution of CSVs as the CSV format does not define the exact format.
 * For an example see `./external-jobs/2020-06-malteser`
 
 ## Origin of the locales
