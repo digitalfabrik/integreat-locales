@@ -1460,8 +1460,8 @@
   },
   "intro": {
     "de": {
-      "integreat": "{{appName}}",
-      "integreatDescription": "{{appName}} ist Ihr digitaler Guide für Deutschland",
+      "appName": "{{appName}}",
+      "appDescription": "{{appName}} ist Ihr digitaler Guide für Deutschland",
       "search": "Suche",
       "searchDescription": "Anhand von Schlagwörtern schnell die richtige Information finden",
       "languageChange": "Sprachwechsel",
@@ -1488,8 +1488,8 @@
       "privacyPolicy": "Datenschutzerklärung"
     },
     "ar": {
-      "integreat": "{{appName}}",
-      "integreatDescription": "تطبيق{{appName}} هو دليلك الرقمي لألمانيا",
+      "appName": "{{appName}}",
+      "appDescription": "تطبيق{{appName}} هو دليلك الرقمي لألمانيا",
       "search": "البحث",
       "searchDescription": "استخدام الكلمات الرئيسية للعثور بسرعة على المعلومات الصحيحة",
       "languageChange": "تغيير اللغة",
@@ -1516,8 +1516,8 @@
       "privacyPolicy": "بيان الخصوصية"
     },
     "en": {
-      "integreat": "{{appName}}",
-      "integreatDescription": "{{appName}} is your digital guide to life in Germany",
+      "appName": "{{appName}}",
+      "appDescription": "{{appName}} is your digital guide to life in Germany",
       "search": "Search",
       "searchDescription": "Find the right information based on keywords",
       "languageChange": "Changing the language",
@@ -1544,8 +1544,8 @@
       "privacyPolicy": "Data protection policy"
     },
     "es": {
-      "integreat": "{{appName}}",
-      "integreatDescription": "{{appName}} es su guía digital para Alemania",
+      "appName": "{{appName}}",
+      "appDescription": "{{appName}} es su guía digital para Alemania",
       "search": "Buscar",
       "searchDescription": "Encuentre rápidamente la información correcta utilizando palabras clave",
       "languageChange": "Cambio de idioma",
@@ -1572,8 +1572,8 @@
       "privacyPolicy": "Declaración de privacidad"
     },
     "fa": {
-      "integreat": "{{appName}}",
-      "integreatDescription": "{{appName}}‏ راهنمای دیجیتالی شما در مورد آلمان است",
+      "appName": "{{appName}}",
+      "appDescription": "{{appName}}‏ راهنمای دیجیتالی شما در مورد آلمان است",
       "search": "جستجو",
       "searchDescription": "با استفاده از کلمات کلیدی، اطلاعات صحیح را به سرعت پیدا کنید",
       "languageChange": "تغییر زبان",
@@ -1600,8 +1600,8 @@
       "privacyPolicy": "بیانیه حفاظت از داده ها"
     },
     "fr": {
-      "integreat": "{{appName}}",
-      "integreatDescription": "{{appName}} est votre guide numérique pour l'Allemagne",
+      "appName": "{{appName}}",
+      "appDescription": "{{appName}} est votre guide numérique pour l'Allemagne",
       "search": "Recherche",
       "searchDescription": "Trouvez rapidement la bonne information à l'aide de mots-clés",
       "languageChange": "Changement de langue",
@@ -1628,8 +1628,8 @@
       "privacyPolicy": "Déclaration de confidentialité"
     },
     "hr": {
-      "integreat": "{{appName}}",
-      "integreatDescription": "{{appName}} je vaš digitalni vodič za Njemačku",
+      "appName": "{{appName}}",
+      "appDescription": "{{appName}} je vaš digitalni vodič za Njemačku",
       "search": "Pretraživanje",
       "searchDescription": "Na temelju ključnih riječi brzo ćete pronaći odgovarajuću informaciju",
       "languageChange": "Promjena jezika",
@@ -1656,8 +1656,8 @@
       "privacyPolicy": "Izjava o zaštiti podataka"
     },
     "ku": {
-      "integreat": "{{appName}}",
-      "integreatDescription": "{{appName}} rêbera te ya dîcîtal derbarê Almanyayê ye",
+      "appName": "{{appName}}",
+      "appDescription": "{{appName}} rêbera te ya dîcîtal derbarê Almanyayê ye",
       "search": "Lêgerîn",
       "searchDescription": "Bi bikaranîna Peyvên Kilîtî, lêzanînên esseh û durust bilez peyde bike",
       "languageChange": "Guhertina Ziman",
@@ -1684,8 +1684,8 @@
       "privacyPolicy": "Daxuyaniya Parastina Daneyan"
     },
     "pl": {
-      "integreat": "{{appName}}",
-      "integreatDescription": "{{appName}} to e-przewodnik po Niemczech",
+      "appName": "{{appName}}",
+      "appDescription": "{{appName}} to e-przewodnik po Niemczech",
       "search": "Wyszukiwarka",
       "searchDescription": "Szybko znajdź odpowiednią informację za pomocą haseł",
       "languageChange": "Zmiana języka",
@@ -1712,8 +1712,8 @@
       "privacyPolicy": "Oświadczenie o ochronie danych"
     },
     "ps": {
-      "integreat": "{{appName}}",
-      "integreatDescription": "{{appName}} آلمان لپاره ستاسو ډیجیټال لارښود دی.",
+      "appName": "{{appName}}",
+      "appDescription": "{{appName}} آلمان لپاره ستاسو ډیجیټال لارښود دی.",
       "search": "لټون",
       "searchDescription": "د کلیدي ټکو په مرسته زر صحیح معلومات موندل",
       "languageChange": "د ژبې تغیر",
@@ -1740,8 +1740,8 @@
       "privacyPolicy": "د ډاټا د حفاظت بیانیه"
     },
     "ro": {
-      "integreat": "{{appName}}",
-      "integreatDescription": "{{appName}} constituie ghidul dvs. digital pentru Germania",
+      "appName": "{{appName}}",
+      "appDescription": "{{appName}} constituie ghidul dvs. digital pentru Germania",
       "search": "Căutare",
       "searchDescription": "Folosind cuvinte cheie, găsiți rapid informațiile importante",
       "languageChange": "Schimbarea limbii",
@@ -1768,8 +1768,8 @@
       "privacyPolicy": "Declarație privind confidențialitatea"
     },
     "ru": {
-      "integreat": "{{appName}}",
-      "integreatDescription": "{{appName}} – это ваш цифровой гид по Германии",
+      "appName": "{{appName}}",
+      "appDescription": "{{appName}} – это ваш цифровой гид по Германии",
       "search": "Поиск",
       "searchDescription": "Быстрый поиск необходимой информации по ключевым словам",
       "languageChange": "Смена языка",
@@ -1796,8 +1796,8 @@
       "privacyPolicy": "Политика конфиденциальности"
     },
     "so": {
-      "integreat": "{{appName}}",
-      "integreatDescription": "{{appName}} waa tilmaamahaaga dhijitaalka ah ee Jarmalka",
+      "appName": "{{appName}}",
+      "appDescription": "{{appName}} waa tilmaamahaaga dhijitaalka ah ee Jarmalka",
       "search": "Raadin",
       "searchDescription": "U hel macluumaadka saxda ah si dhakhso leh adoo isticmaalaya ereyada furaha ah",
       "languageChange": "Bedelka luqadda",
@@ -1824,8 +1824,8 @@
       "privacyPolicy": "Ilaalinta xogta"
     },
     "sr": {
-      "integreat": "{{appName}}",
-      "integreatDescription": "{{appName}} je vaš digitalni vodič za Nemačku",
+      "appName": "{{appName}}",
+      "appDescription": "{{appName}} je vaš digitalni vodič za Nemačku",
       "search": "Pretraga",
       "searchDescription": "Pomoću ključnih reči brzo pronađite pravu informaciju",
       "languageChange": "Promena jezika",
@@ -1852,8 +1852,8 @@
       "privacyPolicy": "Izjava o zaštiti podataka"
     },
     "ti": {
-      "integreat": "{{appName}}",
-      "integreatDescription": "{{appName}} ናብ ጅርመን እትትኸድሉ መምርሒ እዩ።",
+      "appName": "{{appName}}",
+      "appDescription": "{{appName}} ናብ ጅርመን እትትኸድሉ መምርሒ እዩ።",
       "search": "ፈትሽ",
       "searchDescription": "ቁልፊ-ቃላት ብምጥቃም ነቲ ቅኑዕ ሓበሬታ ብቕልጡፍ ርኸብ",
       "languageChange": "ምቕያር ቋንቋ",
@@ -1880,8 +1880,8 @@
       "privacyPolicy": "ሓለዋ ዳታ/ሓበሬታ"
     },
     "tr": {
-      "integreat": "{{appName}}",
-      "integreatDescription": "{{appName}}, Almanya'daki dijital rehberinizdir",
+      "appName": "{{appName}}",
+      "appDescription": "{{appName}}, Almanya'daki dijital rehberinizdir",
       "search": "Arama",
       "searchDescription": "Anahtar kelimeler kullanarak doğru bilgileri hızlıca bulun",
       "languageChange": "Dil değişimi",

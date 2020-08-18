@@ -323,67 +323,67 @@
   },
   "intro": {
     "de": {
-      "integreatDescription": "{{appName}} ist Ihr digitaler Helfer von den Maltesern",
+      "appDescription": "{{appName}} ist Ihr digitaler Helfer von den Maltesern",
       "events": "Termine",
       "eventsDescription": "Aktuelle Termine und Veranstaltungen"
     },
     "ar": {
-      "integreatDescription": "تطبيق {{appName}} هو مُساعدك الرقمي المقدم من مؤسسة مالتيزر (Malteser).",
+      "appDescription": "تطبيق {{appName}} هو مُساعدك الرقمي المقدم من مؤسسة مالتيزر (Malteser).",
       "events": "المواعيد",
       "eventsDescription": "مواعيد وفعاليات حالية"
     },
     "en": {
-      "integreatDescription": "{{appName}} is your digital assistant from the Maltesers",
+      "appDescription": "{{appName}} is your digital assistant from the Maltesers",
       "events": "Events",
       "eventsDescription": "Current dates and events"
     },
     "es": {
-      "integreatDescription": "{{appName}} es su asistente digital de los malteses.",
+      "appDescription": "{{appName}} es su asistente digital de los malteses.",
       "events": "Fechas",
       "eventsDescription": "Eventos actuales y fechas"
     },
     "fa": {
-      "integreatDescription": "{{appName}} یاور دیجیتال شما از مالتسر است",
+      "appDescription": "{{appName}} یاور دیجیتال شما از مالتسر است",
       "events": "رویدادها",
       "eventsDescription": "رویدادهای فعلی و مراسمات"
     },
     "fr": {
-      "integreatDescription": "{{appName}} est votre assistant numérique de Malteser",
+      "appDescription": "{{appName}} est votre assistant numérique de Malteser",
       "events": "Rendez-vous",
       "eventsDescription": "Rendez-vous actuels et évènements"
     },
     "ku": {
-      "integreatDescription": "{{appName}}} alîkarê dîjîtalê we ye ji aliyê Malteserê",
+      "appDescription": "{{appName}}} alîkarê dîjîtalê we ye ji aliyê Malteserê",
       "events": "Randevû",
       "eventsDescription": "Randevû û bûyerên niha"
     },
     "ps": {
-      "integreatDescription": "{{appName}} مالټایانو لخوا ستاسو ډیجیټال کومک دی",
+      "appDescription": "{{appName}} مالټایانو لخوا ستاسو ډیجیټال کومک دی",
       "events": "ملاقاتونه",
       "eventsDescription": "اوسني ملاقاتونه او غونډې"
     },
     "ru": {
-      "integreatDescription": "Приложение {{appName}} является вашим цифровым помощником от Мальтийского ордена",
+      "appDescription": "Приложение {{appName}} является вашим цифровым помощником от Мальтийского ордена",
       "events": "События",
       "eventsDescription": "Текущие события и мероприятия"
     },
     "so": {
-      "integreatDescription": "{{appName}} waa caawiyahaaga dhijitaal ee Maltese",
+      "appDescription": "{{appName}} waa caawiyahaaga dhijitaal ee Maltese",
       "events": "Dhacdooyin",
       "eventsDescription": "Taariikhaha iyo dhacdooyinka hadda ah"
     },
     "sr": {
-      "integreatDescription": "{{appName}} je digilatni pomoćnik Malteških vitezova",
+      "appDescription": "{{appName}} je digilatni pomoćnik Malteških vitezova",
       "events": "Termini",
       "eventsDescription": "Aktuelni termini i manifestacije"
     },
     "ti": {
-      "integreatDescription": "{{appName}} ዲጂታላዊ ሓጋዚኹም ካብቲ Maltese እዩ",
+      "appDescription": "{{appName}} ዲጂታላዊ ሓጋዚኹም ካብቲ Maltese እዩ",
       "events": "ኣጋጣሚታት",
       "eventsDescription": "ህሉው ዕለታትን ኣጋጣሚታትን"
     },
     "tr": {
-      "integreatDescription": "{{appName}} uygulaması Maltalılar için dijital bir yardımcıdır.",
+      "appDescription": "{{appName}} uygulaması Maltalılar için dijital bir yardımcıdır.",
       "events": "Etkinlikler",
       "eventsDescription": "Güncel etkinlik ve organizasyonlar"
     }
