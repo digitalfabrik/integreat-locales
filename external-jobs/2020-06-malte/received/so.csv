@@ -102,7 +102,7 @@
 "landing.alert","Hinweis","Ogeysiis"
 "landing.locationError","Um Orte in der Nähe anzeigen zu können, müssen Ortungsdienste aktiviert werden.","Adeegyada goobta waa in laga shaqeysiiyaa si loo arko meelaha kuu dhow."
 "landing.noPermission","Standortzugriff erforderlich","Marin u helida goobta ayaa loo  baahan yahay"
-"landing.loading","Bestimme Standort...","Raadinaya goobta…"
+"landing.loading","Bestimme Standort...","Raadinaya goobta..."
 "landing.notAvailable","Standortbestimmung deaktiviert","Helitaanka goobta waa la demiyey"
 "landing.timeout","Standortbestimmung fehlgeschlagen","Helitaanka goobta waa lagu guuldareystay"
 "landing.refresh","Liste der Orte aktualisieren","Cusbooneysii liiska goobaha"

@@ -102,7 +102,7 @@
 "landing.alert","Hinweis","Примечание"
 "landing.locationError","Um Orte in der Nähe anzeigen zu können, müssen Ortungsdienste aktiviert werden.","Для отображения близлежащих населенных пунктов активируйте службу геолокации."
 "landing.noPermission","Standortzugriff erforderlich","Необходим доступ к данным о местоположении"
-"landing.loading","Bestimme Standort...","Определить местоположение…"
+"landing.loading","Bestimme Standort...","Определить местоположение..."
 "landing.notAvailable","Standortbestimmung deaktiviert","Определение местоположения деактивировано"
 "landing.timeout","Standortbestimmung fehlgeschlagen","Не удалось определить местоположение"
 "landing.refresh","Liste der Orte aktualisieren","Обновить список населенных пунктов"

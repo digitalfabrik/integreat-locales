@@ -102,7 +102,7 @@
 "landing.alert","Hinweis","Remarque"
 "landing.locationError","Um Orte in der Nähe anzeigen zu können, müssen Ortungsdienste aktiviert werden.","Afin de pouvoir afficher les lieux à proximité, la géolocalisation doit être activée."
 "landing.noPermission","Standortzugriff erforderlich","Accès au lieu requis"
-"landing.loading","Bestimme Standort...","Définis le lieu ….."
+"landing.loading","Bestimme Standort...","Définis le lieu ..."
 "landing.notAvailable","Standortbestimmung deaktiviert","Localisation désactivée"
 "landing.timeout","Standortbestimmung fehlgeschlagen","Échec de la localisation"
 "landing.refresh","Liste der Orte aktualisieren","Actualiser la liste des lieux"

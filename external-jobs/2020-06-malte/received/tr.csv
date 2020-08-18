@@ -102,7 +102,7 @@
 "landing.alert","Hinweis","Uyarı"
 "landing.locationError","Um Orte in der Nähe anzeigen zu können, müssen Ortungsdienste aktiviert werden.","Yakındaki konumları görüntüleyebilmek için konum servislerini etkinleştirmeniz gerekir."
 "landing.noPermission","Standortzugriff erforderlich","Konum erişimi gerekli"
-"landing.loading","Bestimme Standort...","Konum belirle…"
+"landing.loading","Bestimme Standort...","Konum belirle..."
 "landing.notAvailable","Standortbestimmung deaktiviert","Konum belirlemeyi devre dışı bırak"
 "landing.timeout","Standortbestimmung fehlgeschlagen","Konum belirleme başarısız"
 "landing.refresh","Liste der Orte aktualisieren","Konum listesini güncelle"
