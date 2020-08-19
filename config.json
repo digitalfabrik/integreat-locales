@@ -14,5 +14,9 @@
     "so",
     "hr",
     "es"
+  ],
+  "rtlLanguages": [
+    "ar",
+    "fa"
   ]
 }
