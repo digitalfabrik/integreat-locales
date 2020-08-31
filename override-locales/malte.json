@@ -300,7 +300,7 @@
       "contentOfEvent": "Contenu du rendez-vous \"{{event}}\""
     },
     "ku": {
-      "contentOfEvent": "Naveroka randevûyê \"{{{event}}\""
+      "contentOfEvent": "Naveroka randevûyê \"{{event}}\""
     },
     "ps": {
       "contentOfEvent": "د \"{{event}}\" ملاقات منځپانګه"
@@ -353,7 +353,7 @@
       "eventsDescription": "Rendez-vous actuels et évènements"
     },
     "ku": {
-      "appDescription": "{{appName}}} alîkarê dîjîtalê we ye ji aliyê Malteserê",
+      "appDescription": "{{appName}} alîkarê dîjîtalê we ye ji aliyê Malteserê",
       "events": "Randevû",
       "eventsDescription": "Randevû û bûyerên niha"
     },
